@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/5316/trunk/library/iCalcreator
+END
+iCalUtilityFunctions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/5146/trunk/library/iCalcreator/iCalUtilityFunctions.class.php
+END
+summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5146/trunk/library/iCalcreator/summary.html
+END
+iCalcreator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5316/trunk/library/iCalcreator/iCalcreator.class.php
+END
+lgpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5146/trunk/library/iCalcreator/lgpl.txt
+END
+releaseNotes-2.8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5146/trunk/library/iCalcreator/releaseNotes-2.8.txt
+END

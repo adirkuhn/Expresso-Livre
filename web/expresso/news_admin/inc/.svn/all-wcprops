@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/5330/trunk/news_admin/inc
+END
+class.bonews.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/news_admin/inc/class.bonews.inc.php
+END
+class.uiacl.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/news_admin/inc/class.uiacl.inc.php
+END
+hook_preferences.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/news_admin/inc/hook_preferences.inc.php
+END
+hook_sidebox_menu.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/news_admin/inc/hook_sidebox_menu.inc.php
+END
+class.sonews.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/news_admin/inc/class.sonews.inc.php
+END
+class.uiexport.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/news_admin/inc/class.uiexport.inc.php
+END
+class.boacl.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/news_admin/inc/class.boacl.inc.php
+END
+class.soacl.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/news_admin/inc/class.soacl.inc.php
+END
+class.boexport.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/news_admin/inc/class.boexport.inc.php
+END
+class.soexport.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/news_admin/inc/class.soexport.inc.php
+END
+hook_admin.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/news_admin/inc/hook_admin.inc.php
+END
+hook_home.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4690/trunk/news_admin/inc/hook_home.inc.php
+END
+class.uinews.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5329/trunk/news_admin/inc/class.uinews.inc.php
+END
+hook_settings.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/news_admin/inc/hook_settings.inc.php
+END

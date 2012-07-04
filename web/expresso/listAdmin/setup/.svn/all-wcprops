@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/5870/trunk/listAdmin/setup
+END
+phpgw_es-es.lang
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5870/trunk/listAdmin/setup/phpgw_es-es.lang
+END
+phpgw_pt-br.lang
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5870/trunk/listAdmin/setup/phpgw_pt-br.lang
+END
+tables_current.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/listAdmin/setup/tables_current.inc.php
+END
+setup.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/5298/trunk/listAdmin/setup/setup.inc.php
+END

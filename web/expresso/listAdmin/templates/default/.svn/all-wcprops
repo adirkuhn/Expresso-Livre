@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4690/trunk/listAdmin/templates/default
+END
+maillists.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/listAdmin/templates/default/maillists.tpl
+END
+maillists_adm.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/listAdmin/templates/default/maillists_adm.tpl
+END
+maillists_scl.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/listAdmin/templates/default/maillists_scl.tpl
+END
+maillists_form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/listAdmin/templates/default/maillists_form.tpl
+END
+config.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/listAdmin/templates/default/config.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/listAdmin/templates/default/index.tpl
+END
+access_denied.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/listAdmin/templates/default/access_denied.tpl
+END

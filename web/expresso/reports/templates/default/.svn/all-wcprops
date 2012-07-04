@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/5291/trunk/reports/templates/default
+END
+report_usersgroups_group_print.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/5291/trunk/reports/templates/default/report_usersgroups_group_print.tpl
+END
+report_users_group_print.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/5291/trunk/reports/templates/default/report_users_group_print.tpl
+END
+report_maillists_group_print.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/5291/trunk/reports/templates/default/report_maillists_group_print.tpl
+END
+report_logon_group.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/5291/trunk/reports/templates/default/report_logon_group.tpl
+END
+report_cota_group.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/5291/trunk/reports/templates/default/report_cota_group.tpl
+END
+report_logon_group_print.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/5291/trunk/reports/templates/default/report_logon_group_print.tpl
+END
+accesslog.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5291/trunk/reports/templates/default/accesslog.tpl
+END
+config.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5291/trunk/reports/templates/default/config.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5291/trunk/reports/templates/default/index.tpl
+END
+report_usersgroups_group.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/5291/trunk/reports/templates/default/report_usersgroups_group.tpl
+END
+report_users_print.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/5291/trunk/reports/templates/default/report_users_print.tpl
+END
+report_users_group.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/5291/trunk/reports/templates/default/report_users_group.tpl
+END
+report_maillists_group.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/5291/trunk/reports/templates/default/report_maillists_group.tpl
+END
+report_cota_group_print.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/5291/trunk/reports/templates/default/report_cota_group_print.tpl
+END
+access_denied.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/5291/trunk/reports/templates/default/access_denied.tpl
+END

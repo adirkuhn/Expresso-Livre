@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/5320/trunk/jabberit_messenger/js
+END
+makeW.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5041/trunk/jabberit_messenger/js/makeW.js
+END
+editSelect.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/jabberit_messenger/js/editSelect.js
+END
+images.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4690/trunk/jabberit_messenger/js/images.js
+END
+functions.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/jabberit_messenger/js/functions.js
+END
+changeStatus.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/jabberit_messenger/js/changeStatus.js
+END
+connector.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/jabberit_messenger/js/connector.js
+END
+show_hidden.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5320/trunk/jabberit_messenger/js/show_hidden.js
+END
+groups_ldap.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5041/trunk/jabberit_messenger/js/groups_ldap.js
+END
+load.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/5320/trunk/jabberit_messenger/js/load.js
+END
+ldap.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/4690/trunk/jabberit_messenger/js/ldap.js
+END
+setup.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5041/trunk/jabberit_messenger/js/setup.js
+END
+dragdrop.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/jabberit_messenger/js/dragdrop.js
+END
+jsloader.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/jabberit_messenger/js/jsloader.js
+END

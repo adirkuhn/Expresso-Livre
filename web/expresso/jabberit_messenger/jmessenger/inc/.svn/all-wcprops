@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5320/trunk/jabberit_messenger/jmessenger/inc
+END
+jabberit_acl.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/5320/trunk/jabberit_messenger/jmessenger/inc/jabberit_acl.inc.php
+END
+controller.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/jabberit_messenger/jmessenger/inc/controller.xml
+END
+class.CommonFunctions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/4690/trunk/jabberit_messenger/jmessenger/inc/class.CommonFunctions.inc.php
+END
+WebService.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/jabberit_messenger/jmessenger/inc/WebService.php
+END
+class.ContactsIm.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/4690/trunk/jabberit_messenger/jmessenger/inc/class.ContactsIm.inc.php
+END
+jabberit_sessions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/4690/trunk/jabberit_messenger/jmessenger/inc/jabberit_sessions.inc.php
+END
+preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4690/trunk/jabberit_messenger/jmessenger/inc/preferences.php
+END
+class.LdapIM.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/4690/trunk/jabberit_messenger/jmessenger/inc/class.LdapIM.inc.php
+END
+attributeLdap.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4690/trunk/jabberit_messenger/jmessenger/inc/attributeLdap.php
+END
+preferencesJMessenger.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/4690/trunk/jabberit_messenger/jmessenger/inc/preferencesJMessenger.php
+END
+class.DataBaseIM.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/4690/trunk/jabberit_messenger/jmessenger/inc/class.DataBaseIM.inc.php
+END
+Controller.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/4690/trunk/jabberit_messenger/jmessenger/inc/Controller.class.php
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/6605/trunk/prototype/rest/catalog
+END
+SharedContactResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/6578/trunk/prototype/rest/catalog/SharedContactResource.php
+END
+DynamicContactsResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/6605/trunk/prototype/rest/catalog/DynamicContactsResource.php
+END
+SharedGroupResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/6578/trunk/prototype/rest/catalog/SharedGroupResource.php
+END
+ContactResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/6528/trunk/prototype/rest/catalog/ContactResource.php
+END
+GroupResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/6528/trunk/prototype/rest/catalog/GroupResource.php
+END
+UserContactsResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/6605/trunk/prototype/rest/catalog/UserContactsResource.php
+END
+ContactsResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6528/trunk/prototype/rest/catalog/ContactsResource.php
+END
+GroupsResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/6528/trunk/prototype/rest/catalog/GroupsResource.php
+END
+DynamicContactResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/6605/trunk/prototype/rest/catalog/DynamicContactResource.php
+END

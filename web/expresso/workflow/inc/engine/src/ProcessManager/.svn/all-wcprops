@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5921/trunk/workflow/inc/engine/src/ProcessManager
+END
+ProcessManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/5921/trunk/workflow/inc/engine/src/ProcessManager/ProcessManager.php
+END
+GraphViz.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4690/trunk/workflow/inc/engine/src/ProcessManager/GraphViz.php
+END
+RoleManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/4690/trunk/workflow/inc/engine/src/ProcessManager/RoleManager.php
+END
+InstanceManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/4690/trunk/workflow/inc/engine/src/ProcessManager/InstanceManager.php
+END
+BaseManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/4690/trunk/workflow/inc/engine/src/ProcessManager/BaseManager.php
+END
+JobManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/4690/trunk/workflow/inc/engine/src/ProcessManager/JobManager.php
+END
+ActivityManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/4690/trunk/workflow/inc/engine/src/ProcessManager/ActivityManager.php
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib
+END
+IOAuth2RefreshTokens.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib/IOAuth2RefreshTokens.php
+END
+IOAuth2Storage.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib/IOAuth2Storage.php
+END
+OAuth2AuthenticateException.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib/OAuth2AuthenticateException.php
+END
+OAuth2Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib/OAuth2Client.php
+END
+OAuth2Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib/OAuth2Exception.php
+END
+IOAuth2GrantCode.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib/IOAuth2GrantCode.php
+END
+IOAuth2GrantImplicit.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib/IOAuth2GrantImplicit.php
+END
+OAuth2.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib/OAuth2.php
+END
+OAuth2RedirectException.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib/OAuth2RedirectException.php
+END
+IOAuth2GrantExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib/IOAuth2GrantExtension.php
+END
+IOAuth2GrantClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib/IOAuth2GrantClient.php
+END
+IOAuth2GrantUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib/IOAuth2GrantUser.php
+END
+OAuth2ServerException.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/6528/trunk/prototype/library/oauth2/lib/OAuth2ServerException.php
+END

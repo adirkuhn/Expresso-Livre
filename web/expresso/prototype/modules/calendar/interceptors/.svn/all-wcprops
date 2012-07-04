@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/6533/trunk/prototype/modules/calendar/interceptors
+END
+Notifications.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/6528/trunk/prototype/modules/calendar/interceptors/Notifications.php
+END
+LDAPMapping.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/5804/trunk/prototype/modules/calendar/interceptors/LDAPMapping.php
+END
+expressoMailAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/5341/trunk/prototype/modules/calendar/interceptors/expressoMailAdapter.php
+END
+DBMapping.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/6533/trunk/prototype/modules/calendar/interceptors/DBMapping.php
+END
+Helpers.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6177/trunk/prototype/modules/calendar/interceptors/Helpers.php
+END
+MailAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/5341/trunk/prototype/modules/calendar/interceptors/MailAdapter.php
+END
+DAViCalAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/6528/trunk/prototype/modules/calendar/interceptors/DAViCalAdapter.php
+END

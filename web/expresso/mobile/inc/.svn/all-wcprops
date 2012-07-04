@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/6057/trunk/mobile/inc
+END
+class.bo_mobilecc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/mobile/inc/class.bo_mobilecc.inc.php
+END
+hook_preferences.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/mobile/inc/hook_preferences.inc.php
+END
+class.ui_mobilecalendar.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/6057/trunk/mobile/inc/class.ui_mobilecalendar.inc.php
+END
+class.ui_preferences.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5912/trunk/mobile/inc/class.ui_preferences.inc.php
+END
+class.common_functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/mobile/inc/class.common_functions.inc.php
+END
+class.mobiletemplate.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5043/trunk/mobile/inc/class.mobiletemplate.inc.php
+END
+class.ui_home.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4690/trunk/mobile/inc/class.ui_home.inc.php
+END
+class.ui_mobilemail.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/6037/trunk/mobile/inc/class.ui_mobilemail.inc.php
+END
+class.bo_mobilemail.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/mobile/inc/class.bo_mobilemail.inc.php
+END
+class.ui_mobilecc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5928/trunk/mobile/inc/class.ui_mobilecc.inc.php
+END

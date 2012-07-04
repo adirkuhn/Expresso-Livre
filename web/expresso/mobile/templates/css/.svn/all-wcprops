@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/5045/trunk/mobile/templates/css
+END
+login.css
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5045/trunk/mobile/templates/css/login.css
+END
+desktop.css
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4690/trunk/mobile/templates/css/desktop.css
+END
+ie6.css
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/4690/trunk/mobile/templates/css/ie6.css
+END
+mobile.css
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5043/trunk/mobile/templates/css/mobile.css
+END

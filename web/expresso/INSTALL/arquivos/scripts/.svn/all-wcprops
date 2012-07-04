@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/6676/trunk/INSTALL/arquivos/scripts
+END
+cyrus.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5797/trunk/INSTALL/arquivos/scripts/cyrus.pl
+END
+imap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/6261/trunk/INSTALL/arquivos/scripts/imap.sh
+END
+php.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5871/trunk/INSTALL/arquivos/scripts/php.sh
+END
+aux.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/6261/trunk/INSTALL/arquivos/scripts/aux.sh
+END
+md5pass.pl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5797/trunk/INSTALL/arquivos/scripts/md5pass.pl
+END
+http.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/6676/trunk/INSTALL/arquivos/scripts/http.sh
+END
+ini.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/6261/trunk/INSTALL/arquivos/scripts/ini.sh
+END
+ldap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/6261/trunk/INSTALL/arquivos/scripts/ldap.sh
+END
+pass.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5797/trunk/INSTALL/arquivos/scripts/pass.php
+END
+smtp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/6261/trunk/INSTALL/arquivos/scripts/smtp.sh
+END
+bd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/6261/trunk/INSTALL/arquivos/scripts/bd.sh
+END

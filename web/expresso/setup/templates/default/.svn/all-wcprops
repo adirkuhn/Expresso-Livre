@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5359/trunk/setup/templates/default
+END
+msg_alert_msg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/setup/templates/default/msg_alert_msg.tpl
+END
+lang_main.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/setup/templates/default/lang_main.tpl
+END
+applications.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/setup/templates/default/applications.tpl
+END
+system_charset.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/setup/templates/default/system_charset.tpl
+END
+footer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/setup/templates/default/footer.tpl
+END
+config_post_script.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/setup/templates/default/config_post_script.tpl
+END
+arraydl.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/setup/templates/default/arraydl.tpl
+END
+config_pre_script.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/setup/templates/default/config_pre_script.tpl
+END
+schema.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/setup/templates/default/schema.tpl
+END
+manageheader.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/setup/templates/default/manageheader.tpl
+END
+head.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4690/trunk/setup/templates/default/head.tpl
+END
+sqltoarray.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/setup/templates/default/sqltoarray.tpl
+END
+setup_db_blocks.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/setup/templates/default/setup_db_blocks.tpl
+END
+login_stage_header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/setup/templates/default/login_stage_header.tpl
+END
+setup_main.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/setup/templates/default/setup_main.tpl
+END
+setup_demo.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/setup/templates/default/setup_demo.tpl
+END
+config.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5359/trunk/setup/templates/default/config.tpl
+END
+login_main.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/setup/templates/default/login_main.tpl
+END
+applist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/setup/templates/default/applist.tpl
+END
+ldap.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4690/trunk/setup/templates/default/ldap.tpl
+END

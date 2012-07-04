@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/6528/trunk/prototype/library/oauth2/tests
+END
+All_OAuth2_Tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6528/trunk/prototype/library/oauth2/tests/All_OAuth2_Tests.php
+END
+OAuth2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6528/trunk/prototype/library/oauth2/tests/OAuth2Test.php
+END
+OAuth2OutputTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6528/trunk/prototype/library/oauth2/tests/OAuth2OutputTest.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4690/trunk/workflow/inc/engine/src/API
+END
+Process.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/workflow/inc/engine/src/API/Process.php
+END
+Role.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/workflow/inc/engine/src/API/Role.php
+END
+Workitem.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/workflow/inc/engine/src/API/Workitem.php
+END
+Instance.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/workflow/inc/engine/src/API/Instance.php
+END
+BaseActivity.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/engine/src/API/BaseActivity.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/pdo
+END
+authorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/pdo/authorize.php
+END
+mysql_create_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/pdo/mysql_create_tables.sql
+END
+protected_resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/pdo/protected_resource.php
+END
+token.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/pdo/token.php
+END
+hello.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/pdo/hello.php
+END
+addclient.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/pdo/addclient.php
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/6673/trunk/expressoMail1_2/inc
+END
+hook_preferences.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5509/trunk/expressoMail1_2/inc/hook_preferences.inc.php
+END
+class.db_functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/6532/trunk/expressoMail1_2/inc/class.db_functions.inc.php
+END
+class.imap_functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/6673/trunk/expressoMail1_2/inc/class.imap_functions.inc.php
+END
+class.user.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5509/trunk/expressoMail1_2/inc/class.user.inc.php
+END
+class.exporteml.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/5934/trunk/expressoMail1_2/inc/class.exporteml.inc.php
+END
+htmlfilter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/expressoMail1_2/inc/htmlfilter.inc
+END
+class.dynamic_contacts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/5134/trunk/expressoMail1_2/inc/class.dynamic_contacts.inc.php
+END
+gotodownload.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5509/trunk/expressoMail1_2/inc/gotodownload.php
+END
+show_thumbs.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5509/trunk/expressoMail1_2/inc/show_thumbs.php
+END
+class.ScriptS.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/6057/trunk/expressoMail1_2/inc/class.ScriptS.inc.php
+END
+class.attachment.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5359/trunk/expressoMail1_2/inc/class.attachment.inc.php
+END
+class.message_components.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/5509/trunk/expressoMail1_2/inc/class.message_components.inc.php
+END
+hook_config_validate.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/5988/trunk/expressoMail1_2/inc/hook_config_validate.inc.php
+END
+class.SieveS.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/6057/trunk/expressoMail1_2/inc/class.SieveS.inc.php
+END
+class.imap_attachment.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/6037/trunk/expressoMail1_2/inc/class.imap_attachment.inc.php
+END
+show_img.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5509/trunk/expressoMail1_2/inc/show_img.php
+END
+show_embedded_attach.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5509/trunk/expressoMail1_2/inc/show_embedded_attach.php
+END
+get_archive.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5374/trunk/expressoMail1_2/inc/get_archive.php
+END
+hook_admin.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/expressoMail1_2/inc/hook_admin.inc.php
+END
+hook_home.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5509/trunk/expressoMail1_2/inc/hook_home.inc.php
+END
+load_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5509/trunk/expressoMail1_2/inc/load_lang.php
+END
+gd_functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5509/trunk/expressoMail1_2/inc/gd_functions.php
+END
+class.rss.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/expressoMail1_2/inc/class.rss.inc.php
+END
+class.ldap_functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/6528/trunk/expressoMail1_2/inc/class.ldap_functions.inc.php
+END
+class.functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/5509/trunk/expressoMail1_2/inc/class.functions.inc.php
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5509/trunk/expressoMail1_2/inc/class.phpmailer.php
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5509/trunk/expressoMail1_2/inc/class.smtp.php
+END
+show_user_photo.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5928/trunk/expressoMail1_2/inc/show_user_photo.php
+END
+class.imapfp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5773/trunk/expressoMail1_2/inc/class.imapfp.inc.php
+END
+hook_settings.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/6055/trunk/expressoMail1_2/inc/hook_settings.inc.php
+END

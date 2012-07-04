@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/6528/trunk/preferences/templates/classic
+END
+preference_acl_row.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/4690/trunk/preferences/templates/classic/preference_acl_row.tpl
+END
+listUsers.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/preferences/templates/classic/listUsers.php
+END
+preference_acl_hidden.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/4690/trunk/preferences/templates/classic/preference_acl_hidden.tpl
+END
+listUsers.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/preferences/templates/classic/listUsers.tpl
+END
+preference_acl.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/preferences/templates/classic/preference_acl.tpl
+END

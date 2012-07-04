@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5330/trunk/news_admin/templates/default
+END
+export.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/news_admin/templates/default/export.tpl
+END
+rdf_row.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/news_admin/templates/default/rdf_row.tpl
+END
+admin_delete.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/news_admin/templates/default/admin_delete.tpl
+END
+write.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/news_admin/templates/default/write.tpl
+END
+admin_form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/news_admin/templates/default/admin_form.tpl
+END
+rdf.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/news_admin/templates/default/rdf.tpl
+END
+read.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/news_admin/templates/default/read.tpl
+END
+acl.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/news_admin/templates/default/acl.tpl
+END

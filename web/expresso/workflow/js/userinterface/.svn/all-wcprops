@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/6568/trunk/workflow/js/userinterface
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/workflow/js/userinterface/main.js
+END
+externals.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/workflow/js/userinterface/externals.js
+END
+orgchartPrint.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/6568/trunk/workflow/js/userinterface/orgchartPrint.js
+END
+processes.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/workflow/js/userinterface/processes.js
+END
+instances.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/workflow/js/userinterface/instances.js
+END
+orgchart.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/workflow/js/userinterface/orgchart.js
+END
+inbox_group.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/workflow/js/userinterface/inbox_group.js
+END
+inbox.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/workflow/js/userinterface/inbox.js
+END
+inbox_actions.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/workflow/js/userinterface/inbox_actions.js
+END
+common_functions.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/workflow/js/userinterface/common_functions.js
+END
+instances_group.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/js/userinterface/instances_group.js
+END

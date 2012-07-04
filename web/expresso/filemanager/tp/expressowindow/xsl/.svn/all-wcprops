@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5038/trunk/filemanager/tp/expressowindow/xsl
+END
+uploadAdvanced.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/4690/trunk/filemanager/tp/expressowindow/xsl/uploadAdvanced.xsl
+END
+view.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/filemanager/tp/expressowindow/xsl/view.xsl
+END
+send_notification.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/4690/trunk/filemanager/tp/expressowindow/xsl/send_notification.xsl
+END
+historyFile.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/5038/trunk/filemanager/tp/expressowindow/xsl/historyFile.xsl
+END
+copy_move_files.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/4690/trunk/filemanager/tp/expressowindow/xsl/copy_move_files.xsl
+END
+edit_folders.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/4690/trunk/filemanager/tp/expressowindow/xsl/edit_folders.xsl
+END
+upload.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/filemanager/tp/expressowindow/xsl/upload.xsl
+END
+window.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/filemanager/tp/expressowindow/xsl/window.xsl
+END

@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 71
+._helpers.js
+._init.js
+._calendar.date.js
+.calendar.codecs.js.kate-swp
+
+END

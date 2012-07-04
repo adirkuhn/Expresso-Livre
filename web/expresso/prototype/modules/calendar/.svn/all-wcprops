@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/6683/trunk/prototype/modules/calendar
+END
+constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/6295/trunk/prototype/modules/calendar/constants.php
+END
+alarms.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/6528/trunk/prototype/modules/calendar/alarms.php
+END
+export.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5863/trunk/prototype/modules/calendar/export.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5759/trunk/prototype/modules/calendar/index.php
+END

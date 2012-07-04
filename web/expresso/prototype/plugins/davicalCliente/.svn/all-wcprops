@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/6675/trunk/prototype/plugins/davicalCliente
+END
+XMLElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/5399/trunk/prototype/plugins/davicalCliente/XMLElement.php
+END
+caldav-client-v2.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/6675/trunk/prototype/plugins/davicalCliente/caldav-client-v2.php
+END
+Translation.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/5399/trunk/prototype/plugins/davicalCliente/Translation.php
+END
+AWLUtilities.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/5399/trunk/prototype/plugins/davicalCliente/AWLUtilities.php
+END
+XMLDocument.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/5399/trunk/prototype/plugins/davicalCliente/XMLDocument.php
+END

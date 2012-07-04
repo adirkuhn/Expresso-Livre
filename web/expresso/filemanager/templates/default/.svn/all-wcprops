@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/4690/trunk/filemanager/templates/default
+END
+fileModels.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/filemanager/templates/default/fileModels.tpl
+END
+config_folders.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/filemanager/templates/default/config_folders.tpl
+END
+main.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/filemanager/templates/default/main.tpl
+END
+edit_file.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/filemanager/templates/default/edit_file.tpl
+END
+preference_acl_row.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/4690/trunk/filemanager/templates/default/preference_acl_row.tpl
+END
+pref_list.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/filemanager/templates/default/pref_list.tpl
+END
+article.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/filemanager/templates/default/article.html
+END
+pref.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/filemanager/templates/default/pref.tpl
+END
+preference_acl.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/filemanager/templates/default/preference_acl.tpl
+END
+preference_colspan.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/4690/trunk/filemanager/templates/default/preference_colspan.tpl
+END
+history.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/filemanager/templates/default/history.tpl
+END
+cards.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/filemanager/templates/default/cards.html
+END
+preferences.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/filemanager/templates/default/preferences.tpl
+END
+config.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/filemanager/templates/default/config.tpl
+END
+resume.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/filemanager/templates/default/resume.html
+END
+slide.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/filemanager/templates/default/slide.html
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/filemanager/templates/default/index.tpl
+END
+edit_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/filemanager/templates/default/edit_html.tpl
+END
+todo.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/filemanager/templates/default/todo.html
+END
+pref_colspan.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/filemanager/templates/default/pref_colspan.tpl
+END
+errors.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/filemanager/templates/default/errors.tpl
+END
+notify_upload.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/4690/trunk/filemanager/templates/default/notify_upload.tpl
+END
+main.css
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/filemanager/templates/default/main.css
+END
+config_quota.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/filemanager/templates/default/config_quota.tpl
+END
+calendar.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/filemanager/templates/default/calendar.html
+END
+config_owner.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/filemanager/templates/default/config_owner.tpl
+END
+small_table.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/filemanager/templates/default/small_table.tpl
+END

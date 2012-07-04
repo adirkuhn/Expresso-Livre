@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/6528/trunk/contactcenter/templates/classic
+END
+api_common.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/contactcenter/templates/classic/api_common.tpl
+END
+head.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/contactcenter/templates/classic/head.inc.php
+END
+search_win.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/contactcenter/templates/classic/search_win.tpl
+END
+email_win.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/contactcenter/templates/classic/email_win.tpl
+END
+quickAddPlugin.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/4690/trunk/contactcenter/templates/classic/quickAddPlugin.tpl
+END
+addGroup.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/contactcenter/templates/classic/addGroup.tpl
+END
+config.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/contactcenter/templates/classic/config.tpl
+END
+corporative_full_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/4690/trunk/contactcenter/templates/classic/corporative_full_add.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/contactcenter/templates/classic/index.tpl
+END
+full_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/contactcenter/templates/classic/full_add.tpl
+END
+views.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/contactcenter/templates/classic/views.tpl
+END
+contacts.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/contactcenter/templates/classic/contacts.tpl
+END

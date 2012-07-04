@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/6118/trunk/library/Mail/Mail
+END
+mock.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/5146/trunk/library/Mail/Mail/mock.php
+END
+null.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/5146/trunk/library/Mail/Mail/null.php
+END
+sendmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5146/trunk/library/Mail/Mail/sendmail.php
+END
+mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/5146/trunk/library/Mail/Mail/mail.php
+END
+smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/5316/trunk/library/Mail/Mail/smtp.php
+END
+RFC822.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/6118/trunk/library/Mail/Mail/RFC822.php
+END
+smtpmx.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5146/trunk/library/Mail/Mail/smtpmx.php
+END

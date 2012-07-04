@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/6528/trunk/prototype/plugins/jq-raty/test/lib
+END
+jasmine.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6528/trunk/prototype/plugins/jq-raty/test/lib/jasmine.js
+END
+jasmine-html.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/6528/trunk/prototype/plugins/jq-raty/test/lib/jasmine-html.js
+END
+jasmine.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/6528/trunk/prototype/plugins/jq-raty/test/lib/jasmine.css
+END
+jasmine-jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/6528/trunk/prototype/plugins/jq-raty/test/lib/jasmine-jquery.js
+END

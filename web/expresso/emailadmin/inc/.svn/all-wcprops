@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/4690/trunk/emailadmin/inc
+END
+class.postfixldap.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/emailadmin/inc/class.postfixldap.inc.php
+END
+class.ui.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4690/trunk/emailadmin/inc/class.ui.inc.php
+END
+class.bo.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4690/trunk/emailadmin/inc/class.bo.inc.php
+END
+class.so.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4690/trunk/emailadmin/inc/class.so.inc.php
+END
+class.defaultpop.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/emailadmin/inc/class.defaultpop.inc.php
+END
+hook_admin.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/emailadmin/inc/hook_admin.inc.php
+END
+class.uiuserdata.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/emailadmin/inc/class.uiuserdata.inc.php
+END
+class.defaultsmtp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/emailadmin/inc/class.defaultsmtp.inc.php
+END
+class.defaultimap.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/emailadmin/inc/class.defaultimap.inc.php
+END
+class.cyrusimap.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/emailadmin/inc/class.cyrusimap.inc.php
+END

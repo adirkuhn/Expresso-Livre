@@ -1,0 +1,9 @@
+path = "services/OpenLDAP.php"
+class = "OpenLDAP"
+[config]
+idAtribute = "uidNumber"
+host = 127.0.0.1
+context = "dc=LDAP_DC"
+; Caso o LDAP requisite autenticao, configure os parametros a seguir
+;user = 
+;password = 

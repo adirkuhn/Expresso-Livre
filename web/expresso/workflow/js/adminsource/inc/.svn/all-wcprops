@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4690/trunk/workflow/js/adminsource/inc
+END
+class.model.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/4690/trunk/workflow/js/adminsource/inc/class.model.inc.php
+END
+class.controller.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/4690/trunk/workflow/js/adminsource/inc/class.controller.inc.php
+END
+class.atividade.model.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/4690/trunk/workflow/js/adminsource/inc/class.atividade.model.inc.php
+END
+em_branco.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/workflow/js/adminsource/inc/em_branco.php
+END
+class.atividade.controller.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/4690/trunk/workflow/js/adminsource/inc/class.atividade.controller.inc.php
+END

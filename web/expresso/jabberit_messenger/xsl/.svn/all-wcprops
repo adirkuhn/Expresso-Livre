@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/5320/trunk/jabberit_messenger/xsl
+END
+tableExternalParticipants.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/4690/trunk/jabberit_messenger/xsl/tableExternalParticipants.xsl
+END
+tableConfServersJabber.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4690/trunk/jabberit_messenger/xsl/tableConfServersJabber.xsl
+END
+tableOrganizationsEnabledGroupsJabberit.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/4690/trunk/jabberit_messenger/xsl/tableOrganizationsEnabledGroupsJabberit.xsl
+END
+buttons.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/jabberit_messenger/xsl/buttons.xsl
+END
+tableOrganizations.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/jabberit_messenger/xsl/tableOrganizations.xsl
+END
+contacts_jabberit.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/jabberit_messenger/xsl/contacts_jabberit.xsl
+END
+list_ldap_org.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/jabberit_messenger/xsl/list_ldap_org.xsl
+END
+preferences_jabberit.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/4690/trunk/jabberit_messenger/xsl/preferences_jabberit.xsl
+END
+add_user.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/jabberit_messenger/xsl/add_user.xsl
+END
+window.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/jabberit_messenger/xsl/window.xsl
+END
+list_ldap_contacts.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/jabberit_messenger/xsl/list_ldap_contacts.xsl
+END

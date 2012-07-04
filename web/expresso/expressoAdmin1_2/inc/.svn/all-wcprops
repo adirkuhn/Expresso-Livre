@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/6686/trunk/expressoAdmin1_2/inc
+END
+class.uiaccounts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/5593/trunk/expressoAdmin1_2/inc/class.uiaccounts.inc.php
+END
+class.db_functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/6553/trunk/expressoAdmin1_2/inc/class.db_functions.inc.php
+END
+class.user.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/6553/trunk/expressoAdmin1_2/inc/class.user.inc.php
+END
+class.maillist.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/expressoAdmin1_2/inc/class.maillist.inc.php
+END
+class.uicomputers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/5593/trunk/expressoAdmin1_2/inc/class.uicomputers.inc.php
+END
+class.bomessages_size.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/5593/trunk/expressoAdmin1_2/inc/class.bomessages_size.inc.php
+END
+class.socomputers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/expressoAdmin1_2/inc/class.socomputers.inc.php
+END
+class.boconfiguration.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/5144/trunk/expressoAdmin1_2/inc/class.boconfiguration.inc.php
+END
+sieve-php.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5593/trunk/expressoAdmin1_2/inc/sieve-php.lib.php
+END
+class.uimanagers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6517/trunk/expressoAdmin1_2/inc/class.uimanagers.inc.php
+END
+class.group.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5133/trunk/expressoAdmin1_2/inc/class.group.inc.php
+END
+class.uimessages_size.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/5144/trunk/expressoAdmin1_2/inc/class.uimessages_size.inc.php
+END
+class.uimaillists.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/6157/trunk/expressoAdmin1_2/inc/class.uimaillists.inc.php
+END
+if.login.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5509/trunk/expressoAdmin1_2/inc/if.login.inc.php
+END
+class.uilogs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5593/trunk/expressoAdmin1_2/inc/class.uilogs.inc.php
+END
+class.bosectors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/6697/trunk/expressoAdmin1_2/inc/class.bosectors.inc.php
+END
+class.somessages_size.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/5144/trunk/expressoAdmin1_2/inc/class.somessages_size.inc.php
+END
+class.uishared_accounts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/5907/trunk/expressoAdmin1_2/inc/class.uishared_accounts.inc.php
+END
+hook_admin.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/expressoAdmin1_2/inc/hook_admin.inc.php
+END
+class.shared_accounts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/5942/trunk/expressoAdmin1_2/inc/class.shared_accounts.inc.php
+END
+class.institutional_accounts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/5133/trunk/expressoAdmin1_2/inc/class.institutional_accounts.inc.php
+END
+class.uiconfiguration.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/5144/trunk/expressoAdmin1_2/inc/class.uiconfiguration.inc.php
+END
+class.soconfiguration.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/5144/trunk/expressoAdmin1_2/inc/class.soconfiguration.inc.php
+END
+class.uigroups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6157/trunk/expressoAdmin1_2/inc/class.uigroups.inc.php
+END
+class.imap_functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/5850/trunk/expressoAdmin1_2/inc/class.imap_functions.inc.php
+END
+class.uisectors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/6697/trunk/expressoAdmin1_2/inc/class.uisectors.inc.php
+END
+class.sosectors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/6553/trunk/expressoAdmin1_2/inc/class.sosectors.inc.php
+END
+class.uidomains.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/expressoAdmin1_2/inc/class.uidomains.inc.php
+END
+class.login_algorithm_example.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/5934/trunk/expressoAdmin1_2/inc/class.login_algorithm_example.inc.php
+END
+access_denied.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/expressoAdmin1_2/inc/access_denied.php
+END
+names.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4690/trunk/expressoAdmin1_2/inc/names.xml
+END
+class.bocomputers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/expressoAdmin1_2/inc/class.bocomputers.inc.php
+END
+load_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5509/trunk/expressoAdmin1_2/inc/load_lang.php
+END
+class.functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/6697/trunk/expressoAdmin1_2/inc/class.functions.inc.php
+END
+class.ldap_functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/6096/trunk/expressoAdmin1_2/inc/class.ldap_functions.inc.php
+END
+class.totalsessions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/5233/trunk/expressoAdmin1_2/inc/class.totalsessions.inc.php
+END
+class.manager.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/6418/trunk/expressoAdmin1_2/inc/class.manager.inc.php
+END

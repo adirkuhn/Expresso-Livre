@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/4690/trunk/phpgwapi/doc/ldap/iplanet
+END
+phpgwcontact.oc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/phpgwapi/doc/ldap/iplanet/phpgwcontact.oc.conf
+END
+phpgwcontact.at.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/phpgwapi/doc/ldap/iplanet/phpgwcontact.at.conf
+END
+phpgw.oc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/phpgwapi/doc/ldap/iplanet/phpgw.oc.conf
+END
+phpgw.at.conf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/phpgwapi/doc/ldap/iplanet/phpgw.at.conf
+END

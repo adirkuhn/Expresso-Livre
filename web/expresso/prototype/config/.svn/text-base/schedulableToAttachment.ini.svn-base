@@ -1,0 +1,16 @@
+service = PostgreSQL
+PostgreSQL.concept = calendar_attach
+
+[model.depends]
+schedulable = schedulable.attachments
+
+[before.delete]
+decodeSchedulablettachment = modules/calendar/interceptors/DBMapping.php
+
+[after.delete]
+deleteAttachmentDependences = modules/calendar/interceptors/DBMapping.php
+
+[PostgreSQL.mapping]
+id = id
+attachment = attach_id
+schedulable = object_id

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/6057/trunk/library/PEAR
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/5146/trunk/library/PEAR/LICENSE
+END
+PEAR5.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/5146/trunk/library/PEAR/PEAR5.php
+END
+template.spec
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/5146/trunk/library/PEAR/template.spec
+END
+package.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5146/trunk/library/PEAR/package.dtd
+END
+System.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5146/trunk/library/PEAR/System.php
+END
+PEAR.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/5604/trunk/library/PEAR/PEAR.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/5146/trunk/library/PEAR/README
+END

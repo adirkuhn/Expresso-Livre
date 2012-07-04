@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4690/trunk/security/ExpressoCert
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/security/ExpressoCert/manifest.mf
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4690/trunk/security/ExpressoCert/build.xml
+END
+nbbuild.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/security/ExpressoCert/nbbuild.xml
+END

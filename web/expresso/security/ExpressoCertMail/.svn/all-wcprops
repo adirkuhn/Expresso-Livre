@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/4690/trunk/security/ExpressoCertMail
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/security/ExpressoCertMail/manifest.mf
+END
+testapplet.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/security/ExpressoCertMail/testapplet.html
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/security/ExpressoCertMail/build.xml
+END
+nbbuild.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/security/ExpressoCertMail/nbbuild.xml
+END

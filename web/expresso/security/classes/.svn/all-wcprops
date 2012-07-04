@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/4991/trunk/security/classes
+END
+Verifica_Certificado_conf.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/security/classes/Verifica_Certificado_conf.php
+END
+CertificadoB.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4933/trunk/security/classes/CertificadoB.php
+END
+Verifica_Certificado.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/security/classes/Verifica_Certificado.php
+END
+funcoes_auxiliares.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4991/trunk/security/classes/funcoes_auxiliares.php
+END

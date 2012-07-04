@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/6244/trunk/workflow/inc/local/classes
+END
+class.wf_crypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_crypt.php
+END
+class.wf_role.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_role.php
+END
+class.wf_workitem.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_workitem.php
+END
+class.wf_url.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_url.php
+END
+class.wf_instance.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/5928/trunk/workflow/inc/local/classes/class.wf_instance.php
+END
+class.wf_paging.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_paging.php
+END
+class.wf_engine.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4740/trunk/workflow/inc/local/classes/class.wf_engine.php
+END
+class.wf_natural.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_natural.php
+END
+class.wf_phplot.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_phplot.php
+END
+class.wf_string.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_string.php
+END
+class.wf_cached_ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_cached_ldap.php
+END
+class.wf_location.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/5307/trunk/workflow/inc/local/classes/class.wf_location.php
+END
+class.wf_orgchart.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/6244/trunk/workflow/inc/local/classes/class.wf_orgchart.php
+END
+class.JobBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.JobBase.php
+END
+class.wf_regex.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/5980/trunk/workflow/inc/local/classes/class.wf_regex.php
+END
+class.wf_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/5307/trunk/workflow/inc/local/classes/class.wf_report.php
+END
+class.wf_date.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5921/trunk/workflow/inc/local/classes/class.wf_date.php
+END
+class.wf_util.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_util.php
+END
+class.wf_fpdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_fpdf.php
+END
+class.wf_mem_image.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_mem_image.php
+END
+class.wf_ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_ldap.php
+END
+class.wf_log.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_log.php
+END
+class.wf_type.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_type.php
+END
+class.wf_mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_mail.php
+END
+class.wf_db.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/workflow/inc/local/classes/class.wf_db.php
+END

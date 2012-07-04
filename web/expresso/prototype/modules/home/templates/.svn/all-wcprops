@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/6528/trunk/prototype/modules/home/templates
+END
+newslast.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6528/trunk/prototype/modules/home/templates/newslast.ejs
+END
+maillast.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6528/trunk/prototype/modules/home/templates/maillast.ejs
+END
+calendarlast.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/6528/trunk/prototype/modules/home/templates/calendarlast.ejs
+END

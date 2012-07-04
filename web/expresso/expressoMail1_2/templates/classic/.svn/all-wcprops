@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5337/trunk/expressoMail1_2/templates/classic
+END
+offline_preferences.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/4690/trunk/expressoMail1_2/templates/classic/offline_preferences.tpl
+END
+config.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/expressoMail1_2/templates/classic/config.tpl
+END
+print.css
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4757/trunk/expressoMail1_2/templates/classic/print.css
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/5304/trunk/expressoMail1_2/templates/classic/index.tpl
+END
+index_offline.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4690/trunk/expressoMail1_2/templates/classic/index_offline.tpl
+END
+import.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/expressoMail1_2/templates/classic/import.tpl
+END
+login_offline.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4690/trunk/expressoMail1_2/templates/classic/login_offline.tpl
+END
+signature-example.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/4690/trunk/expressoMail1_2/templates/classic/signature-example.tpl
+END
+main.css
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/expressoMail1_2/templates/classic/main.css
+END
+error.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/expressoMail1_2/templates/classic/error.html
+END

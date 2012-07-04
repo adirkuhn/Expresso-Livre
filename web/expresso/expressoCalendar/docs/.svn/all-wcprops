@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/6431/trunk/expressoCalendar/docs
+END
+caldav-DELETE.php.diff
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/6431/trunk/expressoCalendar/docs/caldav-DELETE.php.diff
+END
+Leiame.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5429/trunk/expressoCalendar/docs/Leiame.txt
+END
+caldav-PUT-vcalendar.php.diff
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6431/trunk/expressoCalendar/docs/caldav-PUT-vcalendar.php.diff
+END
+caldav-MOVE.php.diff
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/5411/trunk/expressoCalendar/docs/caldav-MOVE.php.diff
+END

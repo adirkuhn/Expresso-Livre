@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/6057/trunk/reports/inc
+END
+class.db_functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5291/trunk/reports/inc/class.db_functions.inc.php
+END
+class.uireports_maillists.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/5934/trunk/reports/inc/class.uireports_maillists.inc.php
+END
+class.uireports_users.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5934/trunk/reports/inc/class.uireports_users.inc.php
+END
+class.uireports_usersgroups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/5934/trunk/reports/inc/class.uireports_usersgroups.inc.php
+END
+class.imap_functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5291/trunk/reports/inc/class.imap_functions.inc.php
+END
+class.fpdf.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5291/trunk/reports/inc/class.fpdf.inc.php
+END
+class.uireports_cota.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5934/trunk/reports/inc/class.uireports_cota.inc.php
+END
+hook_admin.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5291/trunk/reports/inc/hook_admin.inc.php
+END
+class.functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/6057/trunk/reports/inc/class.functions.inc.php
+END
+class.ldap_functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5291/trunk/reports/inc/class.ldap_functions.inc.php
+END
+class.uireports_logon.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5934/trunk/reports/inc/class.uireports_logon.inc.php
+END
+class.uireports_fpdf.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5291/trunk/reports/inc/class.uireports_fpdf.inc.php
+END
+class.uireports.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5921/trunk/reports/inc/class.uireports.inc.php
+END

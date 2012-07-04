@@ -1,0 +1,35 @@
+[/token]
+TokenResource = /oauth/TokenResource.php
+
+[/usersldap]
+UsersResource = /user/UsersResource.php
+
+[/userldap/:id]
+UserResource = /user/UserResource.php
+
+[/contacts]
+ContactsResource = /catalog/ContactsResource.php
+
+[/contact/:id]
+ContactResource = /catalog/ContactResource.php
+
+[/sharedcontact/:id]
+SharedContactResource = /catalog/SharedContactResource.php
+
+[/groups]
+GroupsResource = /catalog/GroupsResource.php
+
+[/group/:id]
+GroupResource = /catalog/GroupResource.php
+
+[/sharedgroup/:id]
+SharedGroupResource = /catalog/SharedGroupResource.php
+
+[/dynamiccontacts]
+DynamicContactsResource = /catalog/DynamicContactsResource.php
+
+[/dynamiccontact/:id]
+DynamicContactResource = /catalog/DynamicContactResource.php
+
+[/usercontacts]
+UserContactsResource = /catalog/UserContactsResource.php

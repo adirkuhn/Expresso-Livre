@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/6548/trunk/workflow/setup
+END
+phpgw_es-es.lang
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5870/trunk/workflow/setup/phpgw_es-es.lang
+END
+default_records.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/6548/trunk/workflow/setup/default_records.inc.php
+END
+phpgw_en.lang
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5870/trunk/workflow/setup/phpgw_en.lang
+END
+phpgw_pt-br.lang
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5870/trunk/workflow/setup/phpgw_pt-br.lang
+END
+tables_current.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/workflow/setup/tables_current.inc.php
+END
+tables_update.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/6548/trunk/workflow/setup/tables_update.inc.php
+END
+setup.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/6537/trunk/workflow/setup/setup.inc.php
+END

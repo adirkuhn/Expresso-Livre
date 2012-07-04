@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/6179/trunk/jabberit_messenger/inc
+END
+webservice.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/jabberit_messenger/inc/webservice.php
+END
+class.bohostsjabber.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.bohostsjabber.inc.php
+END
+class.uienabledgroups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.uienabledgroups.inc.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4690/trunk/jabberit_messenger/inc/login.php
+END
+class.uigroupslocked.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.uigroupslocked.inc.php
+END
+class.uijmessenger.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.uijmessenger.inc.php
+END
+class.contacts_im.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.contacts_im.inc.php
+END
+hook_admin.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/jabberit_messenger/inc/hook_admin.inc.php
+END
+crypto.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/jabberit_messenger/inc/crypto.php
+END
+class.uihostsjabber.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.uihostsjabber.inc.php
+END
+class.db_im.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.db_im.inc.php
+END
+class.uigroupsldap.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.uigroupsldap.inc.php
+END
+controller.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5041/trunk/jabberit_messenger/inc/controller.xml
+END
+class.bogroupslocked.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.bogroupslocked.inc.php
+END
+class.bojmessenger.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.bojmessenger.inc.php
+END
+class.uimodule.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.uimodule.inc.php
+END
+class.uilogmessage.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.uilogmessage.inc.php
+END
+preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/jabberit_messenger/inc/preferences.php
+END
+attributeLdap.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/jabberit_messenger/inc/attributeLdap.php
+END
+class.fileDefine.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.fileDefine.inc.php
+END
+jabberit_acl.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6179/trunk/jabberit_messenger/inc/jabberit_acl.inc.php
+END
+class.bogroupsldap.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.bogroupsldap.inc.php
+END
+class.uiconfig.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.uiconfig.inc.php
+END
+jabberit_sessions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/jabberit_messenger/inc/jabberit_sessions.inc.php
+END
+load_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/jabberit_messenger/inc/load_lang.php
+END
+class.ldap_im.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.ldap_im.inc.php
+END
+class.bomodule.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.bomodule.inc.php
+END
+class.bologmessage.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.bologmessage.inc.php
+END
+preferencesJMessenger.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/jabberit_messenger/inc/preferencesJMessenger.php
+END
+class.boenabledgroups.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/4690/trunk/jabberit_messenger/inc/class.boenabledgroups.inc.php
+END
+Controller.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/jabberit_messenger/inc/Controller.class.php
+END

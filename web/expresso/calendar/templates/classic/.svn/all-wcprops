@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/6528/trunk/calendar/templates/classic
+END
+month_day.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/calendar/templates/classic/month_day.tpl
+END
+app_print.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/calendar/templates/classic/app_print.css
+END
+edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5132/trunk/calendar/templates/classic/edit.tpl
+END
+listUsers.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5132/trunk/calendar/templates/classic/listUsers.php
+END
+header.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/calendar/templates/classic/header.inc.php
+END
+week.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/calendar/templates/classic/week.tpl
+END
+month_header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/calendar/templates/classic/month_header.tpl
+END
+confirm.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/calendar/templates/classic/confirm.tpl
+END
+listUsers.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5132/trunk/calendar/templates/classic/listUsers.tpl
+END
+navbar.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/calendar/templates/classic/navbar.png
+END
+month_day_print.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/calendar/templates/classic/month_day_print.tpl
+END
+event_link.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/calendar/templates/classic/event_link.tpl
+END
+footer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/calendar/templates/classic/footer.tpl
+END
+month_print.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/calendar/templates/classic/month_print.tpl
+END
+head.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/calendar/templates/classic/head.tpl
+END
+publicView.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/calendar/templates/classic/publicView.php
+END
+body_email.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5132/trunk/calendar/templates/classic/body_email.tpl
+END
+config.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/calendar/templates/classic/config.tpl
+END
+grant_group_access.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4690/trunk/calendar/templates/classic/grant_group_access.tpl
+END
+app.css
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/calendar/templates/classic/app.css
+END
+publicView.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/calendar/templates/classic/publicView.tpl
+END
+view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/calendar/templates/classic/view.tpl
+END
+day.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/calendar/templates/classic/day.tpl
+END

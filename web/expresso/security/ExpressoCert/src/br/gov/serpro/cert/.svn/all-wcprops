@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/security/ExpressoCert/src/br/gov/serpro/cert
+END
+DigitalCertificate.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/4690/trunk/security/ExpressoCert/src/br/gov/serpro/cert/DigitalCertificate.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/4690/trunk/security/ExpressoCert/src/br/gov/serpro/cert/Token.java
+END
+AuthSSLInitializationError.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/4690/trunk/security/ExpressoCert/src/br/gov/serpro/cert/AuthSSLInitializationError.java
+END
+AuthSSLProtocolSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/4690/trunk/security/ExpressoCert/src/br/gov/serpro/cert/AuthSSLProtocolSocketFactory.java
+END
+AuthSSLX509TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/4690/trunk/security/ExpressoCert/src/br/gov/serpro/cert/AuthSSLX509TrustManager.java
+END
+CertificateParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/4690/trunk/security/ExpressoCert/src/br/gov/serpro/cert/CertificateParams.java
+END
+TokenCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/4690/trunk/security/ExpressoCert/src/br/gov/serpro/cert/TokenCollection.java
+END

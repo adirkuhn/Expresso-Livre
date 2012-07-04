@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/4690/trunk/workflow/inc/jobs
+END
+class.JobEnum.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/workflow/inc/jobs/class.JobEnum.inc.php
+END
+class.JobDate.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/workflow/inc/jobs/class.JobDate.inc.php
+END
+class.RelativeDate.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/jobs/class.RelativeDate.inc.php
+END
+class.WeekDate.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/workflow/inc/jobs/class.WeekDate.inc.php
+END
+class.AbsoluteDate.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/jobs/class.AbsoluteDate.inc.php
+END

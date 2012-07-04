@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/6179/trunk/jabberit_messenger
+END
+applet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/4690/trunk/jabberit_messenger/applet.jar
+END
+default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4690/trunk/jabberit_messenger/default.xml
+END
+client.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/4690/trunk/jabberit_messenger/client.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/jabberit_messenger/controller.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/4690/trunk/jabberit_messenger/index.php
+END
+help.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4690/trunk/jabberit_messenger/help.php
+END

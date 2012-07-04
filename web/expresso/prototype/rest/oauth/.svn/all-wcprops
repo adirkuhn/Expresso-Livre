@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/6528/trunk/prototype/rest/oauth
+END
+authorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/6528/trunk/prototype/rest/oauth/authorize.php
+END
+protected_resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6528/trunk/prototype/rest/oauth/protected_resource.php
+END
+OAuth2StorageUserCredential.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/6528/trunk/prototype/rest/oauth/OAuth2StorageUserCredential.php
+END
+addclient.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/6528/trunk/prototype/rest/oauth/addclient.php
+END
+TokenResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/6528/trunk/prototype/rest/oauth/TokenResource.php
+END

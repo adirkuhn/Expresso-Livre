@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5836/trunk/INSTALL/ubuntu/11.10/etc/postgresql/9.1/main
+END
+pg_hba.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/5836/trunk/INSTALL/ubuntu/11.10/etc/postgresql/9.1/main/pg_hba.conf
+END
+postgresql.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/5836/trunk/INSTALL/ubuntu/11.10/etc/postgresql/9.1/main/postgresql.conf
+END

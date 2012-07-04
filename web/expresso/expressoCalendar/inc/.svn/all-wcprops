@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/6402/trunk/expressoCalendar/inc
+END
+hook_admin.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5804/trunk/expressoCalendar/inc/hook_admin.inc.php
+END
+class.ui_migration.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/6402/trunk/expressoCalendar/inc/class.ui_migration.inc.php
+END

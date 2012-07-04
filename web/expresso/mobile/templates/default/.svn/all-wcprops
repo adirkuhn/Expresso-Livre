@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5050/trunk/mobile/templates/default
+END
+form_button_script.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/4690/trunk/mobile/templates/default/form_button_script.tpl
+END
+dicas.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/mobile/templates/default/dicas.tpl
+END
+edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/mobile/templates/default/edit.tpl
+END
+contact_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/mobile/templates/default/contact_view.tpl
+END
+cc_main.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/mobile/templates/default/cc_main.tpl
+END
+search_bar.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/mobile/templates/default/search_bar.tpl
+END
+pc_template.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5043/trunk/mobile/templates/default/pc_template.tpl
+END
+folders.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/mobile/templates/default/folders.tpl
+END
+events_list.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/mobile/templates/default/events_list.tpl
+END
+new_msg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5037/trunk/mobile/templates/default/new_msg.tpl
+END
+mails_list.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/mobile/templates/default/mails_list.tpl
+END
+preferences.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/mobile/templates/default/preferences.tpl
+END
+body_email.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/mobile/templates/default/body_email.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5043/trunk/mobile/templates/default/login.tpl
+END
+delete_msg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/mobile/templates/default/delete_msg.tpl
+END
+contact_add_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/mobile/templates/default/contact_add_edit.tpl
+END
+overlap.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/mobile/templates/default/overlap.tpl
+END
+contacts_list.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/mobile/templates/default/contacts_list.tpl
+END
+calendar.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/mobile/templates/default/calendar.tpl
+END
+mobilemail.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/mobile/templates/default/mobilemail.tpl
+END
+template.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5043/trunk/mobile/templates/default/template.tpl
+END
+link_pict.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/mobile/templates/default/link_pict.tpl
+END
+keep_add_participants.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/4690/trunk/mobile/templates/default/keep_add_participants.tpl
+END
+home_search.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/mobile/templates/default/home_search.tpl
+END
+home_index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5043/trunk/mobile/templates/default/home_index.tpl
+END
+sent_msg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/mobile/templates/default/sent_msg.tpl
+END
+view_msg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/mobile/templates/default/view_msg.tpl
+END

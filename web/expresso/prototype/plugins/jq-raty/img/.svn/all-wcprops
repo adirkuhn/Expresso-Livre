@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/6528/trunk/prototype/plugins/jq-raty/img
+END
+cancel-off.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/6528/trunk/prototype/plugins/jq-raty/img/cancel-off.png
+END
+cancel-on.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6528/trunk/prototype/plugins/jq-raty/img/cancel-on.png
+END
+star-half.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6528/trunk/prototype/plugins/jq-raty/img/star-half.png
+END
+star-off.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/6528/trunk/prototype/plugins/jq-raty/img/star-off.png
+END
+star-on.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/6528/trunk/prototype/plugins/jq-raty/img/star-on.png
+END

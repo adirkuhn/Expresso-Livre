@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/4690/trunk/phpgwapi/doc
+END
+lang_files.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4690/trunk/phpgwapi/doc/lang_files.txt
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4690/trunk/phpgwapi/doc/LICENSE
+END
+vim.format
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/4690/trunk/phpgwapi/doc/vim.format
+END
+class.accounts
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4690/trunk/phpgwapi/doc/class.accounts
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/4690/trunk/phpgwapi/doc/CHANGELOG
+END
+contacts.readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4690/trunk/phpgwapi/doc/contacts.readme.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/4690/trunk/phpgwapi/doc/README
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4690/trunk/phpgwapi/doc/CREDITS
+END
+cvs.html
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4690/trunk/phpgwapi/doc/cvs.html
+END
+coding_standard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4690/trunk/phpgwapi/doc/coding_standard.txt
+END
+LICENSE.phpmailer
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4690/trunk/phpgwapi/doc/LICENSE.phpmailer
+END
+SECURITY
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4690/trunk/phpgwapi/doc/SECURITY
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/4690/trunk/phpgwapi/doc/index.html
+END
+php-configuration.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/phpgwapi/doc/php-configuration.txt
+END
+phpgw.css
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/4690/trunk/phpgwapi/doc/phpgw.css
+END

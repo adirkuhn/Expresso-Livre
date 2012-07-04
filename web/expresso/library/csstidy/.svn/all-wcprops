@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/5135/trunk/library/csstidy
+END
+lang.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/4690/trunk/library/csstidy/lang.inc.php
+END
+class.csstidy_optimise.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/library/csstidy/class.csstidy_optimise.php
+END
+data.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/4690/trunk/library/csstidy/data.inc.php
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/4690/trunk/library/csstidy/COPYING
+END
+class.csstidy_print.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/library/csstidy/class.csstidy_print.php
+END
+css_optimiser.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/library/csstidy/css_optimiser.php
+END
+template.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/4690/trunk/library/csstidy/template.tpl
+END
+cssparse.css
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/4690/trunk/library/csstidy/cssparse.css
+END
+template1.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/4690/trunk/library/csstidy/template1.tpl
+END
+template2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/4690/trunk/library/csstidy/template2.tpl
+END
+class.csstidy.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5135/trunk/library/csstidy/class.csstidy.php
+END
+template3.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/4690/trunk/library/csstidy/template3.tpl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/4690/trunk/library/csstidy/README
+END

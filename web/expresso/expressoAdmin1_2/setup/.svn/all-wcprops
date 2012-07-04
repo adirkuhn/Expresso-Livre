@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/6556/trunk/expressoAdmin1_2/setup
+END
+phpgw_es-es.lang
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5870/trunk/expressoAdmin1_2/setup/phpgw_es-es.lang
+END
+phpgw_pt-br.lang
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/6556/trunk/expressoAdmin1_2/setup/phpgw_pt-br.lang
+END
+tables_current.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/5133/trunk/expressoAdmin1_2/setup/tables_current.inc.php
+END
+tables_update.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5314/trunk/expressoAdmin1_2/setup/tables_update.inc.php
+END
+setup.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5298/trunk/expressoAdmin1_2/setup/setup.inc.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/6615/trunk/INSTALL/debian
+END
+debconf.critical
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5797/trunk/INSTALL/debian/debconf.critical
+END
+debconf.high
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/5797/trunk/INSTALL/debian/debconf.high
+END

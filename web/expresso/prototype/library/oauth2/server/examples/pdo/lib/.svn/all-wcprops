@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/pdo/lib
+END
+OAuth2StoragePdo.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/pdo/lib/OAuth2StoragePdo.php
+END
+OAuth2StorageUserCredential.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/pdo/lib/OAuth2StorageUserCredential.php
+END

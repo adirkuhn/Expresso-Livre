@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/6553/trunk/expressoAdmin1_2/templates/default
+END
+computers.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/computers.tpl
+END
+configuration_limit_by_group_modal.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/5144/trunk/expressoAdmin1_2/templates/default/configuration_limit_by_group_modal.tpl
+END
+managers.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/5133/trunk/expressoAdmin1_2/templates/default/managers.tpl
+END
+maillists.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/maillists.tpl
+END
+messages_size.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/6059/trunk/expressoAdmin1_2/templates/default/messages_size.tpl
+END
+accounts_form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/5133/trunk/expressoAdmin1_2/templates/default/accounts_form.tpl
+END
+computers_delete.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/computers_delete.tpl
+END
+logs.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/logs.tpl
+END
+computers_form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/6159/trunk/expressoAdmin1_2/templates/default/computers_form.tpl
+END
+sectors_delete.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/sectors_delete.tpl
+END
+institutional_accounts.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/5133/trunk/expressoAdmin1_2/templates/default/institutional_accounts.tpl
+END
+sectors_form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6553/trunk/expressoAdmin1_2/templates/default/sectors_form.tpl
+END
+shared_accounts.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/5804/trunk/expressoAdmin1_2/templates/default/shared_accounts.tpl
+END
+assing_calendar.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/5916/trunk/expressoAdmin1_2/templates/default/assing_calendar.css
+END
+configuration.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/5144/trunk/expressoAdmin1_2/templates/default/configuration.tpl
+END
+configuration_limit_by_user_modal.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/5144/trunk/expressoAdmin1_2/templates/default/configuration_limit_by_user_modal.tpl
+END
+domains_form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6159/trunk/expressoAdmin1_2/templates/default/domains_form.tpl
+END
+messages_size_modal.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/5144/trunk/expressoAdmin1_2/templates/default/messages_size_modal.tpl
+END
+groups.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/groups.tpl
+END
+managers_form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/6095/trunk/expressoAdmin1_2/templates/default/managers_form.tpl
+END
+institutional_accounts_modal.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/6157/trunk/expressoAdmin1_2/templates/default/institutional_accounts_modal.tpl
+END
+shared_accounts_modal.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/6157/trunk/expressoAdmin1_2/templates/default/shared_accounts_modal.tpl
+END
+participants_search_itemlist.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/5804/trunk/expressoAdmin1_2/templates/default/participants_search_itemlist.ejs
+END
+sectors.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/6553/trunk/expressoAdmin1_2/templates/default/sectors.tpl
+END
+maillists_form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/6158/trunk/expressoAdmin1_2/templates/default/maillists_form.tpl
+END
+sectors_cota.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6553/trunk/expressoAdmin1_2/templates/default/sectors_cota.tpl
+END
+messages_size.css
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/5144/trunk/expressoAdmin1_2/templates/default/messages_size.css
+END
+domains.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/domains.tpl
+END
+institutional_accounts.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/institutional_accounts.css
+END
+shared_accounts.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/shared_accounts.css
+END
+assing_calendar.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/5804/trunk/expressoAdmin1_2/templates/default/assing_calendar.ejs
+END
+configuration_block_email_for_institutional_account.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/5144/trunk/expressoAdmin1_2/templates/default/configuration_block_email_for_institutional_account.tpl
+END
+maillists_scl.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/5133/trunk/expressoAdmin1_2/templates/default/maillists_scl.tpl
+END
+groups_form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/6158/trunk/expressoAdmin1_2/templates/default/groups_form.tpl
+END
+accesslog.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/accesslog.tpl
+END
+body_email.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/body_email.tpl
+END
+config.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6553/trunk/expressoAdmin1_2/templates/default/config.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5804/trunk/expressoAdmin1_2/templates/default/index.tpl
+END
+user_shared_add_itemlist.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/5804/trunk/expressoAdmin1_2/templates/default/user_shared_add_itemlist.ejs
+END
+access_denied.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/access_denied.tpl
+END
+totalsessions.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/totalsessions.tpl
+END
+accounts.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/accounts.tpl
+END
+list_inactives.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/4690/trunk/expressoAdmin1_2/templates/default/list_inactives.tpl
+END

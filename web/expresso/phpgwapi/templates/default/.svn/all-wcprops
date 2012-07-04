@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/6528/trunk/phpgwapi/templates/default
+END
+listUsers.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/phpgwapi/templates/default/listUsers.php
+END
+details.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/phpgwapi/templates/default/details.inc.php
+END
+css.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5769/trunk/phpgwapi/templates/default/css.tpl
+END
+help.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/phpgwapi/templates/default/help.tpl
+END
+about_unknown.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/phpgwapi/templates/default/about_unknown.tpl
+END
+frames_body.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/phpgwapi/templates/default/frames_body.tpl
+END
+history_list.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/phpgwapi/templates/default/history_list.tpl
+END
+listUsers.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/phpgwapi/templates/default/listUsers.tpl
+END
+footer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/phpgwapi/templates/default/footer.tpl
+END
+addressbook.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/phpgwapi/templates/default/addressbook.tpl
+END
+portal.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/phpgwapi/templates/default/portal.tpl
+END
+login.css
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/phpgwapi/templates/default/login.css
+END
+head.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5782/trunk/phpgwapi/templates/default/head.tpl
+END
+head.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/phpgwapi/templates/default/head.inc.php
+END
+accounts_popup.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/phpgwapi/templates/default/accounts_popup.tpl
+END
+login_default.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/6528/trunk/phpgwapi/templates/default/login_default.php
+END
+config.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/phpgwapi/templates/default/config.tpl
+END
+frames_navbar.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/phpgwapi/templates/default/frames_navbar.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5141/trunk/phpgwapi/templates/default/login.tpl
+END
+navbar.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/phpgwapi/templates/default/navbar.tpl
+END
+navbar_app.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/phpgwapi/templates/default/navbar_app.tpl
+END
+navbar.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5486/trunk/phpgwapi/templates/default/navbar.inc.php
+END
+about.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/phpgwapi/templates/default/about.tpl
+END
+frames.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/phpgwapi/templates/default/frames.tpl
+END
+nextmatchs.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/phpgwapi/templates/default/nextmatchs.tpl
+END
+login_denylogin.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/phpgwapi/templates/default/login_denylogin.tpl
+END
+hook_settings.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/phpgwapi/templates/default/hook_settings.inc.php
+END

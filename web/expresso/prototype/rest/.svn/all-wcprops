@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/6605/trunk/prototype/rest
+END
+dispatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/6528/trunk/prototype/rest/dispatch.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/6528/trunk/prototype/rest/.htaccess
+END

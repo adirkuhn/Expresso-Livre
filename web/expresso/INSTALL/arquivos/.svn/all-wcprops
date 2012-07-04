@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/6676/trunk/INSTALL/arquivos
+END
+expresso.ldif
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5797/trunk/INSTALL/arquivos/expresso.ldif
+END
+header.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5797/trunk/INSTALL/arquivos/header.inc.php
+END
+expresso-cron
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/6173/trunk/INSTALL/arquivos/expresso-cron
+END
+DB_CONFIG
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/5797/trunk/INSTALL/arquivos/DB_CONFIG
+END
+expresso.dump
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/6173/trunk/INSTALL/arquivos/expresso.dump
+END
+saslauthd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5797/trunk/INSTALL/arquivos/saslauthd.conf
+END
+workflow.dump
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5797/trunk/INSTALL/arquivos/workflow.dump
+END
+gerar_dump.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/6173/trunk/INSTALL/arquivos/gerar_dump.sh
+END

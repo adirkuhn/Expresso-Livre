@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/!svn/ver/6528/trunk/admin
+END
+navbar-create.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5509/trunk/admin/navbar-create.php
+END
+navbar-sel.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/5509/trunk/admin/navbar-sel.php
+END
+testbutton.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4690/trunk/admin/testbutton.php
+END
+check_acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/4690/trunk/admin/check_acl.php
+END
+subversion.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4690/trunk/admin/subversion.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/5509/trunk/admin/controller.php
+END
+phpinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/4690/trunk/admin/phpinfo.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/4690/trunk/admin/index.php
+END

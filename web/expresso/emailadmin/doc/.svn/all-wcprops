@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/4690/trunk/emailadmin/doc
+END
+qmailuser-mandrake.schema
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/emailadmin/doc/qmailuser-mandrake.schema
+END
+qmailuser.schema
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4690/trunk/emailadmin/doc/qmailuser.schema
+END
+main.cf
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/4690/trunk/emailadmin/doc/main.cf
+END

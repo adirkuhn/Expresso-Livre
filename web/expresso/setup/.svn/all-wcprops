@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/!svn/ver/6528/trunk/setup
+END
+schematoy.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/4690/trunk/setup/schematoy.php
+END
+system_charset.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/4690/trunk/setup/system_charset.php
+END
+sqltoarray.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4690/trunk/setup/sqltoarray.php
+END
+manageheader.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/6164/trunk/setup/manageheader.php
+END
+check_install.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5781/trunk/setup/check_install.php
+END
+setup_demo.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4690/trunk/setup/setup_demo.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/5781/trunk/setup/config.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/4690/trunk/setup/index.php
+END
+ldapimport.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4690/trunk/setup/ldapimport.php
+END
+applist.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/4690/trunk/setup/applist.php
+END
+versions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/4690/trunk/setup/versions.inc.php
+END
+ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/4690/trunk/setup/ldap.php
+END
+lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/6057/trunk/setup/lang.php
+END
+ldapexport.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4690/trunk/setup/ldapexport.php
+END
+applications.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/6528/trunk/setup/applications.php
+END
+ldapmodify.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4690/trunk/setup/ldapmodify.php
+END

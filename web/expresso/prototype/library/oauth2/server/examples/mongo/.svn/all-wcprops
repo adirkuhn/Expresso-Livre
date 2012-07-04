@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/mongo
+END
+authorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/mongo/authorize.php
+END
+protected_resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/mongo/protected_resource.php
+END
+token.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/mongo/token.php
+END
+addclient.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/6528/trunk/prototype/library/oauth2/server/examples/mongo/addclient.php
+END

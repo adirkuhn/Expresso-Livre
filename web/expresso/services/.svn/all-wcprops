@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/!svn/ver/6528/trunk/services
+END
+class.db.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/6528/trunk/services/class.db.php
+END
+class.ical.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5130/trunk/services/class.ical.php
+END
+finder.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/4690/trunk/services/finder.js
+END
+class.ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5928/trunk/services/class.ldap.php
+END
+class.mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5461/trunk/services/class.mail.php
+END
+class.memCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/5359/trunk/services/class.memCache.php
+END
+class.servicelocator.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5399/trunk/services/class.servicelocator.php
+END

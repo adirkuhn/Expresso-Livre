@@ -1,0 +1,581 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/6568/trunk/workflow/inc
+END
+class.basecontroller.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/workflow/inc/class.basecontroller.inc.php
+END
+class.workflow_processmonitor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/4690/trunk/workflow/inc/class.workflow_processmonitor.inc.php
+END
+class.bo_utils.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/6496/trunk/workflow/inc/class.bo_utils.inc.php
+END
+class.run_activity.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/6231/trunk/workflow/inc/class.run_activity.inc.php
+END
+class.workflow_baseactivity.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4690/trunk/workflow/inc/class.workflow_baseactivity.inc.php
+END
+class.bo_agent_mail_smtp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/workflow/inc/class.bo_agent_mail_smtp.inc.php
+END
+class.workflow_acl.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/workflow/inc/class.workflow_acl.inc.php
+END
+class.utils.url.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5921/trunk/workflow/inc/class.utils.url.php
+END
+class.bo_adminaccess.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/workflow/inc/class.bo_adminaccess.inc.php
+END
+class.powergraphic.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/6037/trunk/workflow/inc/class.powergraphic.inc.php
+END
+class.ui_userinterface.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6477/trunk/workflow/inc/class.ui_userinterface.inc.php
+END
+class.utils.string.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5934/trunk/workflow/inc/class.utils.string.php
+END
+class.bo_move_instances.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/class.bo_move_instances.inc.php
+END
+class.TemplateServer.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/workflow/inc/class.TemplateServer.inc.php
+END
+class.workflow_processmanager.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/4690/trunk/workflow/inc/class.workflow_processmanager.inc.php
+END
+class.ui_adminjobs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/workflow/inc/class.ui_adminjobs.inc.php
+END
+hook_admin.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4690/trunk/workflow/inc/hook_admin.inc.php
+END
+class.ui_generic_select.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/class.ui_generic_select.inc.php
+END
+class.CachedLDAP.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/workflow/inc/class.CachedLDAP.inc.php
+END
+class.utils.type.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/workflow/inc/class.utils.type.php
+END
+class.ui_adminprocesses.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/class.ui_adminprocesses.inc.php
+END
+class.process_smarty.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/workflow/inc/class.process_smarty.inc.php
+END
+class.so_move_instances.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/class.so_move_instances.inc.php
+END
+class.workflow_activitymanager.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4690/trunk/workflow/inc/class.workflow_activitymanager.inc.php
+END
+class.ajax.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4690/trunk/workflow/inc/class.ajax.inc.php
+END
+class.WorkflowObjects.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/workflow/inc/class.WorkflowObjects.inc.php
+END
+class.bo_ajaxinterface.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/workflow/inc/class.bo_ajaxinterface.inc.php
+END
+class.ui_external_applications.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4690/trunk/workflow/inc/class.ui_external_applications.inc.php
+END
+class.UserPictureProvider.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/workflow/inc/class.UserPictureProvider.inc.php
+END
+class.workflow_rolemanager.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/4690/trunk/workflow/inc/class.workflow_rolemanager.inc.php
+END
+class.utils.xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4690/trunk/workflow/inc/class.utils.xml.php
+END
+class.WorkflowWatcher.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/workflow/inc/class.WorkflowWatcher.inc.php
+END
+class.fsutils.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/workflow/inc/class.fsutils.inc.php
+END
+hook_deleteaccount.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/workflow/inc/hook_deleteaccount.inc.php
+END
+class.basemodel.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5921/trunk/workflow/inc/class.basemodel.inc.php
+END
+class.so_agent.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/workflow/inc/class.so_agent.inc.php
+END
+class.bo_workflow_forms.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/class.bo_workflow_forms.inc.php
+END
+class.WorkflowSecurity.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/workflow/inc/class.WorkflowSecurity.inc.php
+END
+hook_home.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4690/trunk/workflow/inc/hook_home.inc.php
+END
+class.so_agent_mail_smtp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/workflow/inc/class.so_agent_mail_smtp.inc.php
+END
+class.workflow_process.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/workflow/inc/class.workflow_process.inc.php
+END
+class.JobScheduler.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4728/trunk/workflow/inc/class.JobScheduler.inc.php
+END
+class.so_orgchart.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/6568/trunk/workflow/inc/class.so_orgchart.inc.php
+END
+class.so_adminaccess.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/workflow/inc/class.so_adminaccess.inc.php
+END
+hook_settings.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/workflow/inc/hook_settings.inc.php
+END
+common_functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/workflow/inc/common_functions.inc.php
+END
+class.bo_agent.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/workflow/inc/class.bo_agent.inc.php
+END
+class.ui_templateeditor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/class.ui_templateeditor.inc.php
+END
+class.bo_participants.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/workflow/inc/class.bo_participants.inc.php
+END
+common.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4690/trunk/workflow/inc/common.inc.php
+END
+class.utils.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5934/trunk/workflow/inc/class.utils.php
+END
+class.crontab.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4690/trunk/workflow/inc/class.crontab.inc.php
+END
+class.ui_adminroles.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/workflow/inc/class.ui_adminroles.inc.php
+END
+class.ui_resourceeditor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/class.ui_resourceeditor.inc.php
+END
+class.WorkflowUtils.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/workflow/inc/class.WorkflowUtils.inc.php
+END
+class.WorkflowMacro.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4690/trunk/workflow/inc/class.WorkflowMacro.inc.php
+END
+class.ui_participants.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/workflow/inc/class.ui_participants.inc.php
+END
+class.external_bridge.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/workflow/inc/class.external_bridge.inc.php
+END
+class.reports.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5307/trunk/workflow/inc/class.reports.inc.php
+END
+class.utils.security.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5928/trunk/workflow/inc/class.utils.security.php
+END
+class.workflow_instance.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/class.workflow_instance.inc.php
+END
+class.BrowserInfo.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5934/trunk/workflow/inc/class.BrowserInfo.inc.php
+END
+class.WorkflowJobManager.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/workflow/inc/class.WorkflowJobManager.inc.php
+END
+class.so_userinterface.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6535/trunk/workflow/inc/class.so_userinterface.inc.php
+END
+class.ui_ajaxinterface.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4690/trunk/workflow/inc/class.ui_ajaxinterface.inc.php
+END
+class.JobRunner.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/workflow/inc/class.JobRunner.inc.php
+END
+class.ui_adminsource.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/workflow/inc/class.ui_adminsource.inc.php
+END
+class.so_adminjobs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/workflow/inc/class.so_adminjobs.inc.php
+END
+class.workflow_smarty.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4690/trunk/workflow/inc/class.workflow_smarty.inc.php
+END
+class.ui_move_instances.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4690/trunk/workflow/inc/class.ui_move_instances.inc.php
+END
+class.ui_adminactivities.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/workflow/inc/class.ui_adminactivities.inc.php
+END
+class.workflow_wfruntime.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/workflow/inc/class.workflow_wfruntime.inc.php
+END
+class.WorkflowLDAP.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/workflow/inc/class.WorkflowLDAP.inc.php
+END
+hook_preferences.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4690/trunk/workflow/inc/hook_preferences.inc.php
+END
+class.workflow_gui.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/workflow/inc/class.workflow_gui.inc.php
+END
+class.bo_userinterface.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/5921/trunk/workflow/inc/class.bo_userinterface.inc.php
+END
+class.Logger.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/workflow/inc/class.Logger.inc.php
+END
+class.bo_adminjobs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/6037/trunk/workflow/inc/class.bo_adminjobs.inc.php
+END
+class.so_external_applications.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4690/trunk/workflow/inc/class.so_external_applications.inc.php
+END
+class.bo_adminsource.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/workflow/inc/class.bo_adminsource.inc.php
+END
+class.bo_orgchart.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/6490/trunk/workflow/inc/class.bo_orgchart.inc.php
+END
+class.workflow_instancemanager.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4690/trunk/workflow/inc/class.workflow_instancemanager.inc.php
+END
+class.bo_monitors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5921/trunk/workflow/inc/class.bo_monitors.inc.php
+END
+class.ui_agent.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/workflow/inc/class.ui_agent.inc.php
+END
+class.ui_phpeditor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4690/trunk/workflow/inc/class.ui_phpeditor.inc.php
+END
+class.ResourcesRedirector.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/6262/trunk/workflow/inc/class.ResourcesRedirector.inc.php
+END
+hook_sidebox_menu.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5307/trunk/workflow/inc/hook_sidebox_menu.inc.php
+END
+class.workflow_wfsecurity.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4690/trunk/workflow/inc/class.workflow_wfsecurity.inc.php
+END
+class.ui_agent_mail_smtp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/4690/trunk/workflow/inc/class.ui_agent_mail_smtp.inc.php
+END
+class.Paging.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/workflow/inc/class.Paging.inc.php
+END
+class.ui_orgchart.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/workflow/inc/class.ui_orgchart.inc.php
+END
+class.bo_editor.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/workflow/inc/class.bo_editor.inc.php
+END
+class.ui_monitors.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4690/trunk/workflow/inc/class.ui_monitors.inc.php
+END
+class.ui_adminaccess.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4690/trunk/workflow/inc/class.ui_adminaccess.inc.php
+END
+class.Thread.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4690/trunk/workflow/inc/class.Thread.inc.php
+END
+class.bo_external_applications.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4690/trunk/workflow/inc/class.bo_external_applications.inc.php
+END

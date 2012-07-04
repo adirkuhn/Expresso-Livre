@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/6689/trunk/expressoMail1_2
+END
+login_offline.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5934/trunk/expressoMail1_2/login_offline.php
+END
+programed_archiving.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5509/trunk/expressoMail1_2/programed_archiving.php
+END
+save_preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4690/trunk/expressoMail1_2/save_preferences.php
+END
+offline.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/6037/trunk/expressoMail1_2/offline.php
+END
+offline_preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5509/trunk/expressoMail1_2/offline_preferences.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5399/trunk/expressoMail1_2/controller.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/6665/trunk/expressoMail1_2/index.php
+END
+imap.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/4690/trunk/expressoMail1_2/imap.py
+END
