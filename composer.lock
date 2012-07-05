@@ -1,5 +1,5 @@
 {
-    "hash": "60f09c83d9f0891b51ac51941970dcd5",
+    "hash": "78069ab3512a081d0a78e46ace7128e3",
     "packages": [
         {
             "package": "doctrine/common",
@@ -10,12 +10,6 @@
             "version": "2.2.x-dev",
             "source-reference": "f1559554877875677c42c11dd4006b1cf6690c9b",
             "commit-date": "1341437822"
-        },
-        {
-            "package": "doctrine/doctrine-bundle",
-            "version": "dev-master",
-            "alias-pretty-version": "1.0.x-dev",
-            "alias-version": "1.0.9999999.9999999-dev"
         },
         {
             "package": "doctrine/doctrine-bundle",
@@ -116,8 +110,8 @@
         {
             "package": "symfony/swiftmailer-bundle",
             "version": "dev-master",
-            "source-reference": "ea1c2c5143de4fcef4acb5a69004d9b78e3c12ec",
-            "commit-date": "1341430722"
+            "source-reference": "e1d413ce27fd1696bdc82ad9525f1b874664530e",
+            "commit-date": "1341509614"
         },
         {
             "package": "symfony/symfony",
@@ -128,8 +122,8 @@
         {
             "package": "symfony/symfony",
             "version": "dev-master",
-            "source-reference": "73d3efb7a9baba8a5562ec03a7516805f185d8fc",
-            "commit-date": "1341468039"
+            "source-reference": "6b5be0b9717c781953850cd190ee4e718a5c4a5a",
+            "commit-date": "1341492187"
         },
         {
             "package": "twig/extensions",
@@ -154,7 +148,7 @@
     "aliases": [
 
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": {
         "doctrine/doctrine-bundle": 20,
         "twig/extensions": 20,
