@@ -27,8 +27,7 @@ class DemoController extends Controller
      */
     public function helloAction($name)
     {
-        $ldap = $this->get('ExpressoLdap');
-        return array('name' => $ldap->getMailByUidNumber('11021'));
+        return array('name' => $name);
     }
 
     /**

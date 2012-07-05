@@ -26,7 +26,7 @@ http://getcomposer.org/ or just run the following command:
 
 Then, use the `create-project` command to generate a new Symfony application:
 
-    composer.phar create-project symfony/framework-standard-edition path/to/install
+    php composer.phar create-project symfony/framework-standard-edition path/to/install
 
 Composer will install Symfony and all its dependencies under the
 `path/to/install` directory.
@@ -73,7 +73,7 @@ To see a real-live Symfony page in action, access the following page:
 
     web/app_dev.php/demo/hello/Fabien
 
-3) Getting started with Symfony
+4) Getting started with Symfony
 -------------------------------
 
 This distribution is meant to be the starting point for your Symfony
