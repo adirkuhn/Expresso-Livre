@@ -10,3 +10,10 @@ web/bundles/*
 
 # Configuration files
 app/config/parameters.ini
+
+#Expresso
+web/expresso/header.inc.php
+
+#dev
+.tags
+.tags_sorted_by_file
