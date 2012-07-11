@@ -10,3 +10,4 @@ web/bundles/*
 
 # Configuration files
 app/config/parameters.ini
+web/expresso/prototype/config/OpenLDAP.srv
