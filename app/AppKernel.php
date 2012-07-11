@@ -20,7 +20,9 @@ class AppKernel extends Kernel
             new JMS\DiExtraBundle\JMSDiExtraBundle($this),
             new JMS\SecurityExtraBundle\JMSSecurityExtraBundle(),
 
+            //Expresso Bundles
             new Expresso\ExpressoBundle\ExpressoBundle(),
+            new WebClient\WebClientBundle\WebClientBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

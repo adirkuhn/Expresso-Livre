@@ -576,5 +576,5 @@ class SymfonyRequirements extends RequirementCollection
                 'Install <strong>PDO drivers</strong> (mandatory for Doctrine).'
             );
         }
-    }
+        }
 }

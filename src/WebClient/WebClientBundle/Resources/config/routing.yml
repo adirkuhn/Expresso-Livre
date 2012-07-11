@@ -1,0 +1,3 @@
+WebClientBundle_homepage:
+    pattern:  /
+    defaults: { _controller: WebClientBundle:Default:index }
