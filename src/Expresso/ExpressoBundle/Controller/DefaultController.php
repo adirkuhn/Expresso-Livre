@@ -26,7 +26,7 @@ class DefaultController extends Controller
         $form = $this->container->get('form.factory')->create($step->getFormType(), $step);
 
         $request = $this->container->get('request');
-        if ('POST' === $request->getMethod()) {git 
+        if ('POST' === $request->getMethod()) { 
             $form->bindRequest($request);
             if ($form->isValid()) {
                 $configurator->mergeParameters($step->update($form->getData()));
