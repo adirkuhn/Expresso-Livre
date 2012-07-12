@@ -16,7 +16,7 @@ class ExpressoRequirements extends SymfonyRequirements
 
         //LDAP
         $this->addRequirement(
-            function_exists('ldap_connec'),
+            function_exists('ldap_connect'),
             'ldap_connect() precisa estar disponivel',
             'Instale e habilite o extensão <strong>LDAP</strong>.'
         );
