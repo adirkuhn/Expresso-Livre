@@ -1,8 +1,6 @@
 Expresso Livre
 ==============
 
-https://secure.travis-ci.org/adirkuhn/Expresso-Livre.png?branch=master
-
 [![Build Status](https://secure.travis-ci.org/adirkuhn/Expresso-Livre.png?branch=master)](http://travis-ci.org/adirkuhn/Expresso-Livre)
 
 Sobre o Expresso
@@ -18,7 +16,7 @@ em uma Hypermedia API o que ira possibilitar maior escalabilidade
 e a possibilidade de integração com diversos clientes.
 Também possibilitando a evolução da API separadamente do cliente do Expresso.
 
-Para esse desenvolvimento foi adotado o framework [http://symfony.com Symfony2] e junto suas melhores 
+Para esse desenvolvimento foi adotado o framework [Symfony2](http://symfony.com) e junto suas melhores 
 práticas de programação, como uso intensivo de namespaces e design patterns.
 
 No cliente via browser será utilizado recursos modernos como HTML5, Ajax,
