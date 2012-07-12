@@ -12,6 +12,6 @@ class DefaultControllerTest extends WebTestCase
 
         $crawler = $client->request('GET', '/configExpresso.php');
 
-        $this->assertTrue($crawler->filter('html:contains("Configurador do Expresso")')->count() > 0);
+        $this->assertTrue($crawler->filter('html:contains("Expresso")')->count() > 0);
     }
 }
