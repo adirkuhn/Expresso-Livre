@@ -10,4 +10,9 @@ class DefaultController extends Controller
     {
         return $this->render('WebClientBundle:Default:index.html.twig');
     }
+
+    public function logAction()
+    {
+        return $this->render('WebClientBundle:Default:index.html.twig');
+    }
 }

@@ -1,17 +1,18 @@
 var home = {
     load : function(){
-        var oi = $("#login").html();
+        var template = $("#login").html();
         var data = {
             title : "Login",
             user : "Usuário",
             pass : "Senha",
             login: "Login"
         };
-        var html = require('ejs').render(oi, {data : data});
+        var html = require('ejs').render(template, {data : data});
         var login = $(html).find(".login-window");
         login.dialog({
             buttons: {
-                "Login": function () {
+                "Acessar": function () {
+                    $(this).parents(".ui-dialog").find("form").submit();
                     $(this).dialog("close");
                 }
             },
@@ -19,14 +20,17 @@ var home = {
             resizable:false,
             position: ["right","center"]
         });
+        //SOME INTERFACE DETAILS
         login.find('input[type=button]').button();
+        login.find('input[type=password]').keydown(function(e){
+            if(e.keyCode = 13){
+               $(this).parents(".ui-dialog").find("form").submit();
+            }
+        });
         login.parents(".ui-dialog").css("left", (parseInt(login.parents(".ui-dialog").css("left"))-150)+"px");
         login.parents(".ui-dialog").css("top", (parseInt(login.parents(".ui-dialog").css("top"))-50)+"px");
         login.parents(".ui-dialog").css("border-radius", "5px");
         login.parents(".ui-dialog").find(".ui-dialog-titlebar-close").remove();
-    },
-    login : function(){
-
     }
 }
 onload = function(){
