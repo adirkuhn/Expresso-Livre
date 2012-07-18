@@ -18,4 +18,5 @@ web/expresso/header.inc.php
 .tags
 .tags_sorted_by_file
 web/expresso/prototype/config/OpenLDAP.srv
-
+app/config/config.yml
+app/config/parameters.yml
