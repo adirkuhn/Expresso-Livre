@@ -13,3 +13,19 @@ parameters:
 
     locale:            en
     secret:            ThisTokenIsNotSoSecretChangeIt
+
+    ldap_host: ~
+    ldap_port: ~
+    ldap_dn: ~
+    ldap_user: ~
+    ldap_pass: ~
+    email_name: ~
+    email_default_domain: ~
+    email_organization: ~
+    email_smtp_type: ~
+    email_smtp_host: ~
+    email_smtp_port: ~
+    email_imap_type: ~
+    email_imap_host: ~
+    email_imap_port: ~
+    email_imap_delimiter: ~

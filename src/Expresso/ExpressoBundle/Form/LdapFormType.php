@@ -2,7 +2,6 @@
 
 namespace Expresso\ExpressoBundle\Form;
 
-use Sensio\Bundle\DistributionBundle\Configurator\Step\DoctrineStep;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;
 
@@ -21,16 +20,16 @@ class LdapFormType extends AbstractType
             ->add('dn', 'text')
             ->add('user', 'text', array('required' => false))
             ->add('pass', 'repeated', array(
-                'required'        => false,
-                'type'            => 'password',
-                'first_name'      => 'password',
-                'second_name'     => 'password_again',
-                'invalid_message' => 'The password fields must match.',
+                  'required'        => false,
+                  'type'            => 'password',
+                  'first_name'      => 'password',
+                  'second_name'     => 'password_again',
+                  'invalid_message' => 'The password fields must match.',
             ))
         ;
     }
 
-     public function getName()
+    public function getName()
     {
         return 'expressobundle_ldap_step';
     }
