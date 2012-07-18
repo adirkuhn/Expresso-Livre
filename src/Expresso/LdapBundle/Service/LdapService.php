@@ -7,12 +7,15 @@ namespace Expresso\LdapBundle\Service;
 class LdapService
 {
     private $config = array();
+    private $filters = array();
     private $_ress;
     //private $log;
 
-    public function __construct(array $config)
+    public function __construct(array $config , array $filters)
     {
         $this->config = $config;
+
+        $this->filters = $filters;
 
         /**
          * @todo validar campos
@@ -41,6 +44,17 @@ class LdapService
         return $search ? $this->formatEntries(ldap_get_entries($this->_ress, $search)) : false;
     }
 
+    public function getUserByUid( $uid , array $atributes = array() )
+    {       
+      $s =  $this->search('(&(uid='.$this->escape($uid).')'.$this->filters['user'].')' , $atributes );
+      return isset($s[0]) ? $s[0] : null;
+    }
+    
+    public function getGroupsByUid( $uid , array $atributes = array())
+    {       
+      return  $this->search('(&(memberUid='.$this->escape($uid).')'.$this->filters['group'].')' , $atributes );
+    }
+
     public function bind($userDn, $password)
     {
         if (!$userDn) 
@@ -52,6 +66,27 @@ class LdapService
         return (bool)ldap_bind($this->_ress, $userDn, $password);
     }
 
+    public function bindAdmin()
+    {
+        if (!$this->config['adminname']) 
+            throw new \Exception('You must bind with an ldap userDn (adminname)');
+        
+        if (!$this->config['adminpass'])
+            throw new \Exception('Password can not be null to bind (adminpass)'); 
+
+        return $this->bind($this->config['adminname'] , $this->config['adminpass'] );
+    }
+
+    public function bindUser()
+    {
+        if (!$this->config['username']) 
+            throw new \Exception('You must bind with an ldap userDn (adminname)');
+        
+        if (!$this->config['userpass'])
+            throw new \Exception('Password can not be null to bind (adminpass)'); 
+
+        return $this->bind($this->config['username'] , $this->config['userpass'] );
+    }
    
     private function connect()
     {
@@ -171,6 +206,9 @@ class LdapService
                 return $entries[$i];  
             else  
                 $return[] = $entries[$i];
+
+            if(isset($entries['dn']))
+                $return['dn'] = $entries['dn'];
         }   
     
         return $return;

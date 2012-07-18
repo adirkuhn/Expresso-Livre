@@ -4,7 +4,7 @@ imports:
 
 framework:
     #esi:             ~
-    #translator:      { fallback: %locale% }
+    translator:      { fallback: %locale% }
     secret:          %secret%
     router:
         resource: "%kernel.root_dir%/config/routing.yml"
@@ -60,14 +60,20 @@ swiftmailer:
 
 services:
     ExpressoLdap:
-        class:        Expresso\LdapBundle\Service\LdapService
+        class:  Expresso\LdapBundle\Service\LdapService
         arguments:
             config:
-                host: 'expressodev'
-                base_dn: 'dc=prognus'
+                host: ''
+                base_dn: ''
                 sizelimit: 10
                 version: 3
-                username: 'cn=admin,dc=prognus'
-                userpass: 'prognus'
-#                adminname:
-#                adminpass:
+                # username: ''
+                # userpass: ''
+                adminname: ''
+                adminpass: ''
+            filters:
+                user: ''
+                group: ''
+    Expresso.Ldap.UserProvider:
+        class:  Expresso\LdapBundle\Provider\LdapUserProvider
+        arguments: [@ExpressoLdap]
