@@ -8,6 +8,7 @@ env:
   - SYMFONY_VERSION=origin/master
 
 before_script:
+  - cp app/config/config.yml.dist app/config/config.yml
   - curl -s http://getcomposer.org/installer | php
   - php composer.phar install
 
