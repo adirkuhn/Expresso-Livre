@@ -8,7 +8,7 @@
 	*  Free Software Foundation; either version 2 of the License, or (at your  *
 	*  option) any later version.                                              *
 	\**************************************************************************/
-	
+
 	$current_url = substr($_SERVER["SCRIPT_NAME"], 0, strpos($_SERVER["SCRIPT_NAME"],'index.php'));
 
 	$phpgw_info = array();
@@ -18,7 +18,8 @@
 		exit;
 	}
 
-	$GLOBALS['sessionid'] = isset($_GET['sessionid']) ? $_GET['sessionid'] : @$_COOKIE['sessionid'];
+    $GLOBALS['sessionid'] = isset($_GET['sessionid']) ? $_GET['sessionid'] : @$_COOKIE['sessionid'];
+
 	if(!$GLOBALS['sessionid'])
 	{
 		Header('Location: '.$current_url.'login.php'.
@@ -26,6 +27,7 @@
 		'?phpgw_forward='.urlencode('/index.php?'.$_SERVER['QUERY_STRING']):''));
 		exit;
 	}
+
 
 	/*
 		This is the menuaction driver for the multi-layered design
@@ -58,6 +60,7 @@
 		'nonavbar'   => True,
 		'currentapp' => $app
 	);
+
 	include('./header.inc.php');
 
 	if (($GLOBALS['phpgw_info']['server']['use_https'] == 2) && ($_SERVER['HTTPS'] != 'on'))

@@ -157,8 +157,9 @@ RewriteRule ^rest(.*)$ prototype/rest/$1 [QSA,L]
 	php_flag session.auto_start Off
 	php_flag session.use_cookies Off
 	# Uses dir as a session handler
-	php_value session.save_handler "files"
-	php_value session.save_path "/dev/shm"
+	#php_value session.save_handler "files"
+    #php_value session.save_path "/dev/shm"
+	php_value session.save_path "/home/adir/Expresso/app/cache/dev/sessions"
 	# Use memcache as a session handler
 	#php_value session.save_handler "memcache"
 	#php_value session.save_path "tcp://localhost:11211?persistent=1&weight=1&timeout=1&retry_interval=15"

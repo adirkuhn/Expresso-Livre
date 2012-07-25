@@ -439,7 +439,7 @@ function check_logoutcode($code)
 	$tmpl->set_var('login_url', $GLOBALS['phpgw_info']['server']['webserver_url'] . '/login.php' . $extra_vars);
 	$tmpl->set_var('registration_url',$GLOBALS['phpgw_info']['server']['webserver_url'] . '/registration/');
 	$tmpl->set_var('version',$GLOBALS['phpgw_info']['server']['versions']['phpgwapi']);
-	$tmpl->set_var('cd',check_logoutcode($_GET['cd']));
+    $tmpl->set_var('cd',check_logoutcode($_GET['cd']));
 	$tmpl->set_var('cookie',$last_loginid);
 
 	$tmpl->set_var('lang_username',lang('username'));

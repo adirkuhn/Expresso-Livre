@@ -23,7 +23,7 @@ var home = {
         //SOME INTERFACE DETAILS
         login.find('input[type=button]').button();
         login.find('input[type=password]').keydown(function(e){
-            if(e.keyCode = 13){
+            if(e.keyCode === 13){
                $(this).parents(".ui-dialog").find("form").submit();
             }
         });

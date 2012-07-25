@@ -16,6 +16,10 @@ class DefaultController extends Controller
     //TODO: aplicar layout nas telas
     public function setupAction($index = 0)
     {
+        if (!$this->checkDevEnvironment()) {
+            return $this->container->get('templating')->renderResponse('ExpressoBundle:Setup:deny.html.twig');
+        }
+
         $configurator = $this->container->get('sensio.distribution.webconfigurator');
 
         //Como este seviço de configuração é do symfony, ele adiciona suas configurações
@@ -53,6 +57,10 @@ class DefaultController extends Controller
 
     public function finalAction()
     {
+        if (!$this->checkDevEnvironment()) {
+            return $this->container->get('templating')->renderResponse('ExpressoBundle:Setup:deny.html.twig');
+        }
+
         $configurator = $this->container->get('sensio.distribution.webconfigurator');
         $configurator->clean();
 
@@ -69,6 +77,15 @@ class DefaultController extends Controller
             'is_writable' => $configurator->isFileWritable(),
             'version'     => $this->getVersion(),
         ));
+    }
+
+    /**
+    * Verifica se esta no ambiente de desenvolvimento
+    * @return <boolean>
+    */
+    public function checkDevEnvironment()
+    {
+        return ( $this->container->get('kernel')->getEnvironment() === 'dev' );
     }
 
     public function getVersion()

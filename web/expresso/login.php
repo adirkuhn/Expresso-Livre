@@ -10,7 +10,22 @@
 	*  Free Software Foundation; either version 2 of the License, or (at your  *
 	*  option) any later version.                                              *
 	\**************************************************************************/
-	
+
+    if ( isset($GLOBALS['_COOKIE']['PHPSESSID']) ) {
+        session_id($GLOBALS['_COOKIE']['PHPSESSID']);
+        session_start();
+        if ( isset($_SESSION['_POST']) ) {
+            $_POST = $_SESSION['_POST'];
+        }
+        //session_write_close();
+        //print_r($PHP_SELF);die('ollll');
+        //$_SESSION['_count'] = ( isset($_SESSION['_count']) )? $_SESSION['_count']:0;
+        if ( !isset($_SESSION['phpgw_info']) ) {
+            //$_SESSION['_count']++;
+            header('Location: index.php');
+        }
+    }
+
 	$phpgw_info = array();
 	$submit = False;			// set to some initial value
 
@@ -24,9 +39,12 @@
 	if(file_exists('./header.inc.php'))
 	{
 		include('./header.inc.php');
+        
+        $a = $GLOBALS['phpgw']->session->create(strtolower($_POST['login']),$_POST['passwd'],$_POST['passwd_type'],'u');
+    
 		// Force location to home, while logged in.
 		$GLOBALS['sessionid'] = @$_GET['sessionid'] ? $_GET['sessionid'] : @$_COOKIE['sessionid'];
-		
+
 		if(isset($GLOBALS['sessionid']) && $_GET['cd'] != 10)
 		{
 			if( $_GET['cd'] != '66' )
@@ -55,10 +73,8 @@
 		
 	if($_POST)
 	{
-	    $accountInfo = $GLOBALS['phpgw']->accounts->read_repository();
-	    session_id( $_COOKIE[ 'sessionid' ] ); 
-	    session_start();
-	    
+        $accountInfo = $GLOBALS['phpgw']->accounts->read_repository();
+
 	    //Carregando na sessão configurações do usuario usado na nova API.	
 	    $_SESSION['wallet']['user']['uid']	          =  $accountInfo['account_lid'];
 	    $_SESSION['wallet']['user']['uidNumber']      =  $accountInfo['account_id'];

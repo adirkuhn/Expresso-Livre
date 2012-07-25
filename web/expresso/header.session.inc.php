@@ -12,9 +12,12 @@
 if ( isset( $_COOKIE[ 'sessionid' ] ) ) 
 	session_id( $_COOKIE[ 'sessionid' ] ); 
 
-session_start( );
+if ( isset($GLOBALS['_COOKIE']['PHPSESSID']) ) {
+    session_id($GLOBALS['_COOKIE']['PHPSESSID']);
+    session_start();
+}
 
-$sess = $_SESSION[ 'phpgw_session' ];
+$sess = ( isset($_SESSION[ 'phpgw_session']) )?$_SESSION[ 'phpgw_session']:array();
 $invalidSession = false; 
 $user_agent = array(); 
 if (isset($GLOBALS['phpgw']) && !isset($_SESSION['connection_db_info'])){ 

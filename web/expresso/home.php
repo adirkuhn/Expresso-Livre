@@ -10,6 +10,7 @@
 	*  Free Software Foundation; either version 2 of the License, or (at your  *
 	*  option) any later version.                                              *
 	\**************************************************************************/
+
 	$phpgw_info = array();
 	$current_url = substr($_SERVER["SCRIPT_NAME"], 0, strpos($_SERVER["SCRIPT_NAME"],'home.php'));
 
@@ -35,7 +36,7 @@
 		'enable_nextmatchs_class' => True
 	);
 	include('header.inc.php');
-	
+
 	//detect browser
 	require_once('phpgwapi/inc/class.browser.inc.php');
 	

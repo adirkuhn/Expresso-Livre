@@ -11,16 +11,18 @@ class ExpressoBundle extends Bundle
 {
     public function boot()
     {
-        //getting configurator service and parameters
-        $configurator = $this->container->get('sensio.distribution.webconfigurator');
-        $parameters = $configurator->getParameters();
+        if ( $this->container->get('kernel')->getEnvironment() === 'dev' ) {
+            //getting configurator service and parameters
+            $configurator = $this->container->get('sensio.distribution.webconfigurator');
+            $parameters = $configurator->getParameters();
 
-        //check if the config file (parameters.ini) has all keys
-        //TODO: needs to implements individual server check and 'connection' test
-       
-        //create config steps
-        $configurator->addStep(new DBStep($parameters));
-        $configurator->addStep(new LdapStep($parameters));
-        $configurator->addStep(new EmailStep($parameters));
+            //check if the config file (parameters.ini) has all keys
+            //TODO: needs to implements individual server check and 'connection' test
+           
+            //create config steps
+            $configurator->addStep(new DBStep($parameters));
+            $configurator->addStep(new LdapStep($parameters));
+            $configurator->addStep(new EmailStep($parameters));
+        }
     }
 }
