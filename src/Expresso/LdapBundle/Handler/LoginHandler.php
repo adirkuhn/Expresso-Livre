@@ -2,6 +2,7 @@
 namespace Expresso\LdapBundle\Handler;
 
 use Symfony\Component\Security\Http\Authentication\AuthenticationSuccessHandlerInterface;
+use Symfony\Component\HttpFoundation\RedirectResponse;
 use Symfony\Component\Security\Core\Exception\AuthenticationException;
 use Symfony\Component\Security\Core\Authentication\Token\TokenInterface;
 use Symfony\Component\HttpFoundation\Request;
@@ -19,11 +20,12 @@ class LoginHandler implements AuthenticationSuccessHandlerInterface, Authenticat
         $_SESSION['_POST']['passwd'] = 'prognus';
         $_SESSION['_POST']['passwd_type'] = 'text';
         $_SESSION['_POST']['sessionid'] = session_id();
-        //print_r($_SESSION);die('amoras');
+
+        return new RedirectResponse($request->getBaseUrl());
     }
 
     public function onAuthenticationFailure(Request $request, AuthenticationException $exception)
     {
-        unset($_SESSION);
+        return new RedirectResponse($request->headers->get('referer'));
     }
 }

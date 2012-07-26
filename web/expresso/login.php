@@ -17,12 +17,12 @@
         if ( isset($_SESSION['_POST']) ) {
             $_POST = $_SESSION['_POST'];
         }
-        //session_write_close();
+        session_write_close();
         //print_r($PHP_SELF);die('ollll');
         //$_SESSION['_count'] = ( isset($_SESSION['_count']) )? $_SESSION['_count']:0;
         if ( !isset($_SESSION['phpgw_info']) ) {
             //$_SESSION['_count']++;
-            header('Location: index.php');
+            header('Location: index2.php');
         }
     }
 
