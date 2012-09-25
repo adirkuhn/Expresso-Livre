@@ -1,8 +1,0 @@
-<div style="background: #F7F7F7; float:left; position: absolute; left:10px; border:2px outset #000; top:20px; width: 390px !important; height: 215px !important; overflow:auto;"></div>
-
-<div style="position: absolute; left: 410px; top:20px;">
-	<input type="button" onclick="proxy_mensagens.proxy_create_folder();" value="<%=data.new_folder%>" class="button ui-button ui-widget ui-state-default ui-corner-all" role="button" aria-disabled="false" /><br/>
-	<input type="button" onclick="proxy_mensagens.proxy_remove_folder();" value="<%=data.delete_folder%>" class="button ui-button ui-widget ui-state-default ui-corner-all" role="button" aria-disabled="false" /><br/>
-	<input type="button" onclick="proxy_mensagens.proxy_rename_folder();" value="<%=data.rename_folder%>" class="button ui-button ui-widget ui-state-default ui-corner-all" role="button" aria-disabled="false" /><br/>
-	<input type="button" onclick="proxy_mensagens.proxy_export_all_msg();" value="<%=data.export_messages%>" class="button ui-button ui-widget ui-state-default ui-corner-all" role="button" aria-disabled="false" />
-</div>

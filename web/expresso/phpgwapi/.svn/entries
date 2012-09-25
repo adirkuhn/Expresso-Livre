@@ -1,86 +1,0 @@
-10
-
-dir
-6695
-https://svn.expressolivre.org/trunk/phpgwapi
-https://svn.expressolivre.org
-
-
-
-2012-06-15T20:00:17.238137Z
-6528
-gustavo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ae9f2744-c043-0410-bd94-d3e00378db3e
-
-setup
-dir
-
-cron
-dir
-
-doc
-dir
-
-images
-dir
-
-themes
-dir
-
-addressbook.php
-file
-
-
-
-
-2012-05-02T20:42:48.496658Z
-f0cd8fbb14c95cfbe9e221cc9664c5f1
-2007-03-23T14:36:58.000000Z
-2
-niltonneto
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9310
-
-inc
-dir
-
-js
-dir
-
-templates
-dir
-
